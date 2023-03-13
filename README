@@ -2,7 +2,12 @@ Shruthi-1, a digital/analog hybrid MIDI monosynth.
 
 This project is a port of the Shruthi-1 Design into Kicad for current manufacturing, as well as addressing component obsolecence within the design.
 
-Current Modifier: Jake Kolb (therealjkolb@gmail.com.
+Primary goal of the project was to take the exiting Eagle based design files and move them to Kicad. The project is to build the Digital XT control board as well
+as the SMR4mk-II filter board only.
+
+Inherited files that are not to be remanufactured removed for cleanliness, but design files relevant to the Digital XT and the SMR4mk-II are being retained.
+
+Current Modifier: Jake Kolb (therealjkolb@gmail.com).
 
 
 Original developer: Emilie Gillet (emilie.o.gillet@gmail.com)
