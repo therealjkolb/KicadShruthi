@@ -12,9 +12,9 @@
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
  
 include shruthi/makefile
-
+#include bootloader/makefile
 FIRMWARE      = $(BUILD_DIR)shruthi1.hex
-BOOTLOADER    = $(BUILD_ROOT)muboot/muboot.hex
+BOOTLOADER    = $(BUILD_DIR)muboot.hex
 EEPROM        = shruthi/data/factory_data/internal_eeprom.hex
 EEPROM_XT     = shruthi/data/factory_data/internal_eeprom_xt.hex
 
