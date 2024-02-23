@@ -4,8 +4,8 @@
 rm -rf ./build/*
 
 #Build shurthi (Check the AVRLIB_TOOLS_PATH to make sure it matches your computer)
-make AVRLIB_TOOLS_PATH='/cygdrive/d/Development/avr8-gnu-toolchain-win32_x86_64/bin/'
-make -f ./bootloader/makefile AVRLIB_TOOLS_PATH='/cygdrive/d/Development/avr8-gnu-toolchain-win32_x86_64/bin/'
+make AVRLIB_TOOLS_PATH='/cygdrive/d/JDocuments/Projects/Software/avr8-gnu-toolchain-win32_x86_64/bin/' -j1
+make -f ./bootloader/makefile AVRLIB_TOOLS_PATH='/cygdrive/d/JDocuments/Projects/Software/avr8-gnu-toolchain-win32_x86_64/bin/' -j1
 
 
 

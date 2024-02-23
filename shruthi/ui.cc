@@ -126,7 +126,6 @@ const prog_uint8_t xt_parameter_mapping[] PROGMEM = {
   4 + 23,  // PRM_ENV_RELEASE_2
   4 + 21,  // PRM_ENV_DECAY_2
   4 + 22,  // PRM_ENV_SUSTAIN_2
-  
   4 + 18,  // PRM_ENV_SUSTAIN_1
   4 + 17,  // PRM_ENV_DECAY_1
   4 + 31,  // SOFTWARE VOLUME
@@ -135,7 +134,6 @@ const prog_uint8_t xt_parameter_mapping[] PROGMEM = {
   0xff,  // Unassigned
   0xff,  // Unassigned
   0xff,  // Unassigned
-  
   4 + 6,  // PRM_OSC_RANGE_2
   4 + 1,  // PRM_OSC_PARAMETER_1
   4 + 5,  // PRM_OSC_PARAMETER_2
@@ -144,7 +142,6 @@ const prog_uint8_t xt_parameter_mapping[] PROGMEM = {
   4 + 10, // PRM_MIX_SUB_OSC
   4 + 9,  // PRM_MIX_BALANCE
   4 + 11, // PRM_MIX_NOISE
-  
   0,
   1,
   2,

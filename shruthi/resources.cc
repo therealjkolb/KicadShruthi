@@ -295,8 +295,10 @@ static const prog_char str_res_save[] PROGMEM = "save";
 static const prog_char str_res_compare[] PROGMEM = "compare";
 static const prog_char str_res_[] PROGMEM = "----";
 static const prog_char str_res_v[] PROGMEM = "v";
-static const prog_char str_res_671____sn__4370[] PROGMEM = "-1    SN #4370";
-static const prog_char str_res_v1_03[] PROGMEM = "v1.03";
+/*JK3 Here going to modify this for a moment*/
+static const prog_char str_res_671____sn__4370[] PROGMEM = "-1    SN #0001";
+/*JK3 Here going to modify this for a moment*/
+static const prog_char str_res_v1_03[] PROGMEM = "v6.69";
 static const prog_char str_res_shruthi_classic[] PROGMEM = "shruthi classic";
 static const prog_char str_res_4_knobs[] PROGMEM = "(4 knobs)";
 static const prog_char str_res_shruthi_xt[] PROGMEM = "shruthi xt";
