@@ -353,7 +353,8 @@ const prog_uint8_t programmer_switch_mapping[] PROGMEM = {
 /* static */
 void Editor::OnProgrammerSwitch(const Event& event) {
   uint8_t id = event.control_id - SWITCH_OSC_2_MINUS;
-  uint8_t parameter_index = pgm_read_byte(programmer_switch_mapping + id);
+  uint8_t parameter_index = pgm_read_byte(programmer_switch_mapping + id); //I think this is where we're failing, if the program alighment is different at all from what the program expects it will give garbage.
+                                              
   if (parameter_index != 0xff) {
     int8_t increment = parameter_index & 0x80 ? -1 : 1;
     parameter_index = parameter_index & 0x7f;

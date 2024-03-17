@@ -1,15 +1,12 @@
 #!/bin/bash
+#don't use this. THis holds some quick commands that I wanted to archive.
 
 #CLEAN EVERYTHING
-rm -rf ./build/*
+#rm -rf ./build/*
 
 #Build shurthi (Check the AVRLIB_TOOLS_PATH to make sure it matches your computer)
-make AVRLIB_TOOLS_PATH='/cygdrive/d/Development/avr8-gnu-toolchain-win32_x86_64/bin/'
-make -f ./bootloader/makefile AVRLIB_TOOLS_PATH='/cygdrive/d/Development/avr8-gnu-toolchain-win32_x86_64/bin/'
-
-
-
-
+##make AVRLIB_TOOLS_PATH='/cygdrive/c/Development/JakesSynth/avrtoolchain/avr8-gnu-toolchain-win32_x86_64/bin/'
+##make -f ./bootloader/makefile AVRLIB_TOOLS_PATH='/cygdrive/c/Development/JakesSynth/avrtoolchain/avr8-gnu-toolchain-win32_x86_64/bin/'
 
 ##Utility commands that I wanted to keep around:
 
@@ -28,6 +25,9 @@ make -f ./bootloader/makefile AVRLIB_TOOLS_PATH='/cygdrive/d/Development/avr8-gn
 
 #Copy the build from the bootloader folder to the ./build folder
 #cp -r ./bootloader/build/muboot ./build/
+
+#What to use to handle programming manually:
+#avrdude -V -p m644p -c usbtiny -P usb -U flash:w:build/shruthi1/shruthi1.hex:i -U flash:w:build/shruthi1/muboot.hex:i -U eeprom:w:shruthi/data/factory_data/internal_eeprom_xt.hex:i
 
 
 

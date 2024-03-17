@@ -50,8 +50,8 @@ SpiMaster<IOEnableLine, MSB_FIRST, 4> Ui::io_;
 SpiMaster<IOEnableLineAux, MSB_FIRST, 4> Ui::aux_io_;
 RotaryEncoder<EncoderALine, EncoderBLine, EncoderClickLine> Ui::encoder_;
 
-static const int16_t kAdcThresholdLocked = 32;
-static const int16_t kAdcThresholdUnlocked = 8;
+static const int16_t kAdcThresholdLocked = 64;
+static const int16_t kAdcThresholdUnlocked = 16;
 
 /* static */
 void Ui::Init() {
