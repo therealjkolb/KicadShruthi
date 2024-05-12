@@ -1,0 +1,2306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>D:\JDocuments\Projects\Electronics\Synth_clone\shruthi-1_kicad\Shruthi-Digital-XT-v03\Shruthi-Digital-XT-v03.kicad_sch</source>
+    <date>3/15/2024 7:17:12 AM</date>
+    <tool>Eeschema (6.0.0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Shruthi-Digital-XT-v03.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/Shruthi-Digital-XT-v03_1/" tstamps="/19242cda-2b95-44ea-81ee-681d0a3776e9/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Shruthi-Digital-XT-v03_1.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/Shruthi-Digital-XT-v03_2/" tstamps="/4f0345ae-fc28-4121-9622-2357dde3acda/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Shruthi-Digital-XT-v03_2.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/Shruthi-Digital-XT-v03_3/" tstamps="/a3e0d1e2-1e1c-4732-8905-149484b1642d/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Shruthi-Digital-XT-v03_3.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>100n</value>
+      <footprint>C025-024X044</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="C-US025-024X044" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_1"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_1.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_1/" tstamps="/19242cda-2b95-44ea-81ee-681d0a3776e9/"/>
+      <tstamps>9e592107-90a4-4157-a46b-c4676e7bf761</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>100u</value>
+      <footprint>E2,5-7</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="CPOL-EUE2.5-7" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_1"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_1.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_1/" tstamps="/19242cda-2b95-44ea-81ee-681d0a3776e9/"/>
+      <tstamps>580a59fd-736c-4aa9-b432-bfa3fb9a6d06</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>100n</value>
+      <footprint>C025-024X044</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="C-US025-024X044" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_1"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_1.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_1/" tstamps="/19242cda-2b95-44ea-81ee-681d0a3776e9/"/>
+      <tstamps>0724dc94-f13d-4014-8c16-7d36bc98c1a9</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>100n</value>
+      <footprint>C025-024X044</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="C-US025-024X044" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_1"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_1.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_1/" tstamps="/19242cda-2b95-44ea-81ee-681d0a3776e9/"/>
+      <tstamps>5b297e4d-3f15-42c4-af74-b04d804291c1</tstamps>
+    </comp>
+    <comp ref="C11">
+      <value>18p</value>
+      <footprint>C025-024X044</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="C-US025-024X044" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_1"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_1.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_1/" tstamps="/19242cda-2b95-44ea-81ee-681d0a3776e9/"/>
+      <tstamps>cc83c14f-6e57-4cae-8f4f-a21c6a4b51dd</tstamps>
+    </comp>
+    <comp ref="C12">
+      <value>18p</value>
+      <footprint>C025-024X044</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="C-US025-024X044" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_1"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_1.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_1/" tstamps="/19242cda-2b95-44ea-81ee-681d0a3776e9/"/>
+      <tstamps>589581db-5294-4913-9ab9-96388e8032a6</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>100n</value>
+      <footprint>C025-024X044</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="C-US025-024X044" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_1"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_1.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_1/" tstamps="/19242cda-2b95-44ea-81ee-681d0a3776e9/"/>
+      <tstamps>be8cbccf-359f-4043-a39f-8b0d3393bd4e</tstamps>
+    </comp>
+    <comp ref="C16">
+      <value>100n</value>
+      <footprint>C025-024X044</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="C-US025-024X044" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_1"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_1.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_1/" tstamps="/19242cda-2b95-44ea-81ee-681d0a3776e9/"/>
+      <tstamps>3f08e0f9-5cf6-4ec9-9d24-96a8a9d56d37</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>100n</value>
+      <footprint>C025-024X044</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="C-US025-024X044" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_1"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_1.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_1/" tstamps="/19242cda-2b95-44ea-81ee-681d0a3776e9/"/>
+      <tstamps>e0fe93aa-01b7-4df1-8aae-5662e8118bb7</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>1N4148</value>
+      <footprint>D-5</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="DIODE-D-5" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_1"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_1.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_1/" tstamps="/19242cda-2b95-44ea-81ee-681d0a3776e9/"/>
+      <tstamps>84dbede0-0960-4d81-bc34-d149898d9bf9</tstamps>
+    </comp>
+    <comp ref="IC1">
+      <value>24LC512</value>
+      <footprint>DIL08</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="AT24CP" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_1"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_1.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_1/" tstamps="/19242cda-2b95-44ea-81ee-681d0a3776e9/"/>
+      <tstamps>44bb5596-6694-4f0b-ba35-a22e6ab2164f</tstamps>
+    </comp>
+    <comp ref="IC10">
+      <value>ATMEGA644p</value>
+      <footprint>DIL40</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="MEGA16-P" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_1"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_1.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_1/" tstamps="/19242cda-2b95-44ea-81ee-681d0a3776e9/"/>
+      <tstamps>141adfea-00ae-462f-bbc2-a5f33915316e</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>M06SIP</value>
+      <footprint>1X06</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="M06SIP" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_1"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_1.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_1/" tstamps="/19242cda-2b95-44ea-81ee-681d0a3776e9/"/>
+      <tstamps>57714bf4-a361-4130-b606-38681b803a86</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>POWER</value>
+      <footprint>1X02</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="M02PTH" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_1"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_1.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_1/" tstamps="/19242cda-2b95-44ea-81ee-681d0a3776e9/"/>
+      <tstamps>4d6a6714-b432-4733-8e67-38f31308f0c1</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>M03PTH</value>
+      <footprint>1X03</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="M03PTH" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_1"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_1.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_1/" tstamps="/19242cda-2b95-44ea-81ee-681d0a3776e9/"/>
+      <tstamps>1c84cb53-087e-41a2-9fa4-416c19b99507</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>POWER</value>
+      <footprint>1X02</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="M02PTH" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_1"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_1.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_1/" tstamps="/19242cda-2b95-44ea-81ee-681d0a3776e9/"/>
+      <tstamps>48b281fe-c233-4cc9-8722-50b62f5c6967</tstamps>
+    </comp>
+    <comp ref="JP3">
+      <value>M01PTH</value>
+      <footprint>1X01</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="M01PTH" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_1"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_1.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_1/" tstamps="/19242cda-2b95-44ea-81ee-681d0a3776e9/"/>
+      <tstamps>c97423a5-31f9-439b-becc-2d2946fbf01c</tstamps>
+    </comp>
+    <comp ref="OK1">
+      <value>6N137</value>
+      <footprint>DIL08</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="6N137" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_1"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_1.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_1/" tstamps="/19242cda-2b95-44ea-81ee-681d0a3776e9/"/>
+      <tstamps>748ac8a1-5e7a-4cfa-b6a4-60bb0603ea2c</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>20MHz</value>
+      <footprint>HC49U-V</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="CRYSTALHC49U-V" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_1"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_1.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_1/" tstamps="/19242cda-2b95-44ea-81ee-681d0a3776e9/"/>
+      <tstamps>fe8978f8-5bdc-42ed-a560-91bd62ab4e51</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>2.2k</value>
+      <footprint>0204_7</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="R-US_0204{slash}7" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_1"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_1.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_1/" tstamps="/19242cda-2b95-44ea-81ee-681d0a3776e9/"/>
+      <tstamps>84489218-bc6f-4162-a02f-df38a6a54b20</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>2.2k</value>
+      <footprint>0204_7</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="R-US_0204{slash}7" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_1"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_1.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_1/" tstamps="/19242cda-2b95-44ea-81ee-681d0a3776e9/"/>
+      <tstamps>dbb57ef4-569f-42f4-8df4-412eb06f1f68</tstamps>
+    </comp>
+    <comp ref="R15">
+      <value>220</value>
+      <footprint>0204_7</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="R-US_0204{slash}7" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_1"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_1.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_1/" tstamps="/19242cda-2b95-44ea-81ee-681d0a3776e9/"/>
+      <tstamps>74e75f41-ae0f-4c13-b37d-b8f9c373fe54</tstamps>
+    </comp>
+    <comp ref="R16">
+      <value>220</value>
+      <footprint>0204_7</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="R-US_0204{slash}7" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_1"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_1.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_1/" tstamps="/19242cda-2b95-44ea-81ee-681d0a3776e9/"/>
+      <tstamps>a694593a-d46c-46d1-b11f-f4c81be64f5f</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>220</value>
+      <footprint>0204_7</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="R-US_0204{slash}7" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_1"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_1.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_1/" tstamps="/19242cda-2b95-44ea-81ee-681d0a3776e9/"/>
+      <tstamps>6d343cb0-5ebf-4d58-86ac-3b55f02eb948</tstamps>
+    </comp>
+    <comp ref="R18">
+      <value>10k</value>
+      <footprint>0204_7</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="R-US_0204{slash}7" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_1"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_1.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_1/" tstamps="/19242cda-2b95-44ea-81ee-681d0a3776e9/"/>
+      <tstamps>b1f06a6c-1c5b-4928-8f0e-1d855e4dd192</tstamps>
+    </comp>
+    <comp ref="R19">
+      <value>10k</value>
+      <footprint>0204_7</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="R-US_0204{slash}7" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_1"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_1.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_1/" tstamps="/19242cda-2b95-44ea-81ee-681d0a3776e9/"/>
+      <tstamps>436974e3-d260-44d5-9e83-e8dcc8a87280</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>AVRISP</value>
+      <footprint>2X3</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="AVR_SPI_PRG_6PTH" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_1"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_1.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_1/" tstamps="/19242cda-2b95-44ea-81ee-681d0a3776e9/"/>
+      <tstamps>f1ddab5e-d6d0-400d-8747-b1ad92bf4a96</tstamps>
+    </comp>
+    <comp ref="X1">
+      <value>MIDI</value>
+      <footprint>MAB5SH</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="MAB5SH" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_1"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_1.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_1/" tstamps="/19242cda-2b95-44ea-81ee-681d0a3776e9/"/>
+      <tstamps>8553e12a-5452-43fa-b305-1412b453e8ae</tstamps>
+    </comp>
+    <comp ref="X2">
+      <value>MIDI</value>
+      <footprint>MAB5SH</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="MAB5SH" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_1"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_1.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_1/" tstamps="/19242cda-2b95-44ea-81ee-681d0a3776e9/"/>
+      <tstamps>c8452712-a29d-4ec2-9790-942451f6b476</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>100n</value>
+      <footprint>C025-024X044</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="C-US025-024X044" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_2"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_2.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_2/" tstamps="/4f0345ae-fc28-4121-9622-2357dde3acda/"/>
+      <tstamps>8f72f6ae-8d0e-4eff-b2e7-1f4412f86fca</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>100n</value>
+      <footprint>C025-024X044</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="C-US025-024X044" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_2"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_2.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_2/" tstamps="/4f0345ae-fc28-4121-9622-2357dde3acda/"/>
+      <tstamps>93ae0460-5939-4907-b840-f3fd2422996e</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>100n</value>
+      <footprint>C025-024X044</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="C-US025-024X044" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_2"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_2.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_2/" tstamps="/4f0345ae-fc28-4121-9622-2357dde3acda/"/>
+      <tstamps>e4ccd874-8416-4a92-be03-602eb05ffa76</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>100n</value>
+      <footprint>C025-024X044</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="C-US025-024X044" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_2"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_2.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_2/" tstamps="/4f0345ae-fc28-4121-9622-2357dde3acda/"/>
+      <tstamps>471aa924-43fc-450a-bbd0-4ce5ca26758c</tstamps>
+    </comp>
+    <comp ref="IC4">
+      <value>4051N</value>
+      <footprint>DIL16</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="4051N" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_2"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_2.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_2/" tstamps="/4f0345ae-fc28-4121-9622-2357dde3acda/"/>
+      <tstamps>eeb5c092-905b-474a-aaaf-d2e798610d59 4cbbb445-5a0e-427a-8ae9-985af44decca</tstamps>
+    </comp>
+    <comp ref="IC5">
+      <value>4051N</value>
+      <footprint>DIL16</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="4051N" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_2"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_2.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_2/" tstamps="/4f0345ae-fc28-4121-9622-2357dde3acda/"/>
+      <tstamps>b7dc7bfa-cd4a-4a1c-8c54-411a8d3f5bd6 3d3d49f4-24ab-4e0c-aa09-6b3671451062</tstamps>
+    </comp>
+    <comp ref="IC6">
+      <value>4051N</value>
+      <footprint>DIL16</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="4051N" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_2"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_2.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_2/" tstamps="/4f0345ae-fc28-4121-9622-2357dde3acda/"/>
+      <tstamps>45bfdeef-0d37-433d-b367-6f60a7063825 336cb3e1-c411-4000-a39d-7b674b45ccab</tstamps>
+    </comp>
+    <comp ref="IC7">
+      <value>4051N</value>
+      <footprint>DIL16</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="4051N" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_2"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_2.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_2/" tstamps="/4f0345ae-fc28-4121-9622-2357dde3acda/"/>
+      <tstamps>c6f1b1ea-53d1-4b59-95f4-3e05d2fbf014 2261e8de-9f6d-458c-ba24-ce732c2701c2</tstamps>
+    </comp>
+    <comp ref="JP1">
+      <value>M03PTH</value>
+      <footprint>1X03</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="M03PTH" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_2"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_2.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_2/" tstamps="/4f0345ae-fc28-4121-9622-2357dde3acda/"/>
+      <tstamps>2851d17d-b2e9-4f4b-ada1-7a2a01dc7fdb</tstamps>
+    </comp>
+    <comp ref="JP2">
+      <value>M03PTH</value>
+      <footprint>1X03</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="M03PTH" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_2"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_2.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_2/" tstamps="/4f0345ae-fc28-4121-9622-2357dde3acda/"/>
+      <tstamps>ef3b435d-0ce5-4808-9f2a-81b127d7d00e</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>10kB</value>
+      <footprint>ALPS_POT_VERTICAL</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="POT_USVERTICAL" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_2"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_2.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_2/" tstamps="/4f0345ae-fc28-4121-9622-2357dde3acda/"/>
+      <tstamps>d16c041b-64a5-4819-b7a7-621b17a7c159</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>10kB</value>
+      <footprint>ALPS_POT_VERTICAL</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="POT_USVERTICAL" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_2"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_2.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_2/" tstamps="/4f0345ae-fc28-4121-9622-2357dde3acda/"/>
+      <tstamps>cd3f632b-507b-4316-9e8c-a187d947585d</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>10kB</value>
+      <footprint>ALPS_POT_VERTICAL</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="POT_USVERTICAL" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_2"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_2.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_2/" tstamps="/4f0345ae-fc28-4121-9622-2357dde3acda/"/>
+      <tstamps>a15aa84d-60c5-4372-9746-a6552b5ce22b</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>10kB</value>
+      <footprint>ALPS_POT_VERTICAL</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="POT_USVERTICAL" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_2"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_2.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_2/" tstamps="/4f0345ae-fc28-4121-9622-2357dde3acda/"/>
+      <tstamps>cab23f30-1baa-4279-aac6-cb392a9bf078</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>10kB</value>
+      <footprint>ALPS_POT_VERTICAL</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="POT_USVERTICAL" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_2"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_2.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_2/" tstamps="/4f0345ae-fc28-4121-9622-2357dde3acda/"/>
+      <tstamps>60768776-9a1f-450a-a8ff-fcd8dfd264e6</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>10kB</value>
+      <footprint>ALPS_POT_VERTICAL</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="POT_USVERTICAL" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_2"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_2.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_2/" tstamps="/4f0345ae-fc28-4121-9622-2357dde3acda/"/>
+      <tstamps>4c48ebf1-41f1-43c1-bb5f-4634b6723e1a</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>10kB</value>
+      <footprint>ALPS_POT_VERTICAL</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="POT_USVERTICAL" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_2"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_2.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_2/" tstamps="/4f0345ae-fc28-4121-9622-2357dde3acda/"/>
+      <tstamps>1cbfe16b-467d-4f66-9b8f-73992d9668b5</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>POT</value>
+      <footprint>ALPS_POT_VERTICAL</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="POT_USVERTICAL" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_2"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_2.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_2/" tstamps="/4f0345ae-fc28-4121-9622-2357dde3acda/"/>
+      <tstamps>d1780ddc-dcc6-403f-8dc7-846fb77b4842</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>10kB</value>
+      <footprint>ALPS_POT_VERTICAL</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="POT_USVERTICAL" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_2"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_2.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_2/" tstamps="/4f0345ae-fc28-4121-9622-2357dde3acda/"/>
+      <tstamps>901f297b-40ea-4ae4-95f1-25a90c2a544e</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>10kB</value>
+      <footprint>ALPS_POT_VERTICAL</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="POT_USVERTICAL" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_2"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_2.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_2/" tstamps="/4f0345ae-fc28-4121-9622-2357dde3acda/"/>
+      <tstamps>f0584821-e67b-40e4-ac3c-1f769baa5bd1</tstamps>
+    </comp>
+    <comp ref="R20">
+      <value>10kB</value>
+      <footprint>ALPS_POT_VERTICAL</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="POT_USVERTICAL" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_2"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_2.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_2/" tstamps="/4f0345ae-fc28-4121-9622-2357dde3acda/"/>
+      <tstamps>46c0ce7a-bfcb-477a-b49f-bbf5aacf86cb</tstamps>
+    </comp>
+    <comp ref="R21">
+      <value>10kB</value>
+      <footprint>ALPS_POT_VERTICAL</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="POT_USVERTICAL" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_2"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_2.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_2/" tstamps="/4f0345ae-fc28-4121-9622-2357dde3acda/"/>
+      <tstamps>0092f228-649d-41d5-b212-01248dc557db</tstamps>
+    </comp>
+    <comp ref="R22">
+      <value>10kB</value>
+      <footprint>ALPS_POT_VERTICAL</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="POT_USVERTICAL" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_2"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_2.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_2/" tstamps="/4f0345ae-fc28-4121-9622-2357dde3acda/"/>
+      <tstamps>fa244b52-773c-412f-84e2-5c650fe9641c</tstamps>
+    </comp>
+    <comp ref="R23">
+      <value>10kB</value>
+      <footprint>ALPS_POT_VERTICAL</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="POT_USVERTICAL" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_2"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_2.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_2/" tstamps="/4f0345ae-fc28-4121-9622-2357dde3acda/"/>
+      <tstamps>8139e267-9b2e-419e-9ccc-e348ee347764</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>10kB</value>
+      <footprint>ALPS_POT_VERTICAL</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="POT_USVERTICAL" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_2"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_2.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_2/" tstamps="/4f0345ae-fc28-4121-9622-2357dde3acda/"/>
+      <tstamps>26cd95fd-c582-4d2b-af90-b4b9d8e785b1</tstamps>
+    </comp>
+    <comp ref="R25">
+      <value>10kB</value>
+      <footprint>ALPS_POT_VERTICAL</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="POT_USVERTICAL" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_2"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_2.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_2/" tstamps="/4f0345ae-fc28-4121-9622-2357dde3acda/"/>
+      <tstamps>61748964-26e8-43dd-846d-345316e4275b</tstamps>
+    </comp>
+    <comp ref="R26">
+      <value>10kB</value>
+      <footprint>ALPS_POT_VERTICAL</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="POT_USVERTICAL" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_2"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_2.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_2/" tstamps="/4f0345ae-fc28-4121-9622-2357dde3acda/"/>
+      <tstamps>7e291ba2-9656-42e7-93e0-3045fec6ce4c</tstamps>
+    </comp>
+    <comp ref="R27">
+      <value>10kB</value>
+      <footprint>ALPS_POT_VERTICAL</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="POT_USVERTICAL" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_2"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_2.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_2/" tstamps="/4f0345ae-fc28-4121-9622-2357dde3acda/"/>
+      <tstamps>b46dccb1-f395-4251-ba92-5c4e90d06bff</tstamps>
+    </comp>
+    <comp ref="R28">
+      <value>10kB</value>
+      <footprint>ALPS_POT_VERTICAL</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="POT_USVERTICAL" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_2"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_2.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_2/" tstamps="/4f0345ae-fc28-4121-9622-2357dde3acda/"/>
+      <tstamps>a73cebb8-d7bb-4787-a7fe-3903ca20afda</tstamps>
+    </comp>
+    <comp ref="R29">
+      <value>10kB</value>
+      <footprint>ALPS_POT_VERTICAL</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="POT_USVERTICAL" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_2"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_2.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_2/" tstamps="/4f0345ae-fc28-4121-9622-2357dde3acda/"/>
+      <tstamps>2dcf7517-d93d-4a6f-bca7-5c629fadd191</tstamps>
+    </comp>
+    <comp ref="R30">
+      <value>10kB</value>
+      <footprint>ALPS_POT_VERTICAL</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="POT_USVERTICAL" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_2"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_2.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_2/" tstamps="/4f0345ae-fc28-4121-9622-2357dde3acda/"/>
+      <tstamps>b29b27e5-2828-4838-8d1f-985db095879f</tstamps>
+    </comp>
+    <comp ref="R39">
+      <value>10kB</value>
+      <footprint>ALPS_POT_VERTICAL</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="POT_USVERTICAL" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_2"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_2.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_2/" tstamps="/4f0345ae-fc28-4121-9622-2357dde3acda/"/>
+      <tstamps>aa3e152f-56d1-44e7-ab5d-2640a76381ab</tstamps>
+    </comp>
+    <comp ref="R40">
+      <value>10kB</value>
+      <footprint>ALPS_POT_VERTICAL</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="POT_USVERTICAL" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_2"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_2.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_2/" tstamps="/4f0345ae-fc28-4121-9622-2357dde3acda/"/>
+      <tstamps>da74b7b6-7538-4684-9839-0f9fe5937546</tstamps>
+    </comp>
+    <comp ref="R41">
+      <value>10kB</value>
+      <footprint>ALPS_POT_VERTICAL</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="POT_USVERTICAL" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_2"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_2.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_2/" tstamps="/4f0345ae-fc28-4121-9622-2357dde3acda/"/>
+      <tstamps>a0067fdc-4778-4323-92e6-75f7a255312c</tstamps>
+    </comp>
+    <comp ref="R42">
+      <value>10kB</value>
+      <footprint>ALPS_POT_VERTICAL</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="POT_USVERTICAL" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_2"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_2.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_2/" tstamps="/4f0345ae-fc28-4121-9622-2357dde3acda/"/>
+      <tstamps>a361ad1f-56c7-4b71-b4b9-2cd1290b331c</tstamps>
+    </comp>
+    <comp ref="R43">
+      <value>10kB</value>
+      <footprint>ALPS_POT_VERTICAL</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="POT_USVERTICAL" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_2"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_2.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_2/" tstamps="/4f0345ae-fc28-4121-9622-2357dde3acda/"/>
+      <tstamps>ba673e53-3aff-46bd-801c-f241f2d328dd</tstamps>
+    </comp>
+    <comp ref="R44">
+      <value>10kB</value>
+      <footprint>ALPS_POT_VERTICAL</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="POT_USVERTICAL" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_2"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_2.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_2/" tstamps="/4f0345ae-fc28-4121-9622-2357dde3acda/"/>
+      <tstamps>4567a989-5fcd-4154-9210-670dd2051ddd</tstamps>
+    </comp>
+    <comp ref="R45">
+      <value>10kB</value>
+      <footprint>ALPS_POT_VERTICAL</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="POT_USVERTICAL" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_2"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_2.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_2/" tstamps="/4f0345ae-fc28-4121-9622-2357dde3acda/"/>
+      <tstamps>50d0a559-f09c-43ba-9759-3e2ba4b680a7</tstamps>
+    </comp>
+    <comp ref="R46">
+      <value>10kB</value>
+      <footprint>ALPS_POT_VERTICAL</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="POT_USVERTICAL" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_2"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_2.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_2/" tstamps="/4f0345ae-fc28-4121-9622-2357dde3acda/"/>
+      <tstamps>4d7baa25-d975-4819-9700-dd829d229c25</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100n</value>
+      <footprint>C025-024X044</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="C-US025-024X044" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_3"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_3.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_3/" tstamps="/a3e0d1e2-1e1c-4732-8905-149484b1642d/"/>
+      <tstamps>c7257277-0b77-4836-99ee-4d43ac8e5e6a</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100n</value>
+      <footprint>C025-024X044</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="C-US025-024X044" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_3"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_3.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_3/" tstamps="/a3e0d1e2-1e1c-4732-8905-149484b1642d/"/>
+      <tstamps>981e8a50-7919-46db-a9c5-2939a5e5867e</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>100n</value>
+      <footprint>C025-024X044</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="C-US025-024X044" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_3"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_3.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_3/" tstamps="/a3e0d1e2-1e1c-4732-8905-149484b1642d/"/>
+      <tstamps>145d870c-fec3-4861-99b8-281166bf4bd3</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>100n</value>
+      <footprint>C025-024X044</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="C-US025-024X044" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_3"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_3.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_3/" tstamps="/a3e0d1e2-1e1c-4732-8905-149484b1642d/"/>
+      <tstamps>f1c97f4c-96bb-4f91-8ccb-a63b16f16271</tstamps>
+    </comp>
+    <comp ref="IC2">
+      <value>74HC165N</value>
+      <footprint>DIL16</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="74165N" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_3"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_3.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_3/" tstamps="/a3e0d1e2-1e1c-4732-8905-149484b1642d/"/>
+      <tstamps>9c8a370c-8885-4e45-8123-bcb3fe0ffaee 89b44abf-9340-49ef-8e23-5ab366cff170</tstamps>
+    </comp>
+    <comp ref="IC3">
+      <value>74HC165N</value>
+      <footprint>DIL16</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="74165N" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_3"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_3.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_3/" tstamps="/a3e0d1e2-1e1c-4732-8905-149484b1642d/"/>
+      <tstamps>d3d011e9-74f3-4e4b-8115-67511aab0584 ad4ba0f8-5c60-42cd-bebe-4b79115873bd</tstamps>
+    </comp>
+    <comp ref="IC8">
+      <value>74595N</value>
+      <footprint>DIL16</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="74595N" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_3"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_3.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_3/" tstamps="/a3e0d1e2-1e1c-4732-8905-149484b1642d/"/>
+      <tstamps>83c1848e-d5f2-4cfa-8fa9-f41572d92711 0ebecf9b-eb79-435e-a112-f7f24dbe72bb</tstamps>
+    </comp>
+    <comp ref="IC9">
+      <value>74HC165N</value>
+      <footprint>DIL16</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="74165N" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_3"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_3.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_3/" tstamps="/a3e0d1e2-1e1c-4732-8905-149484b1642d/"/>
+      <tstamps>a1d14b64-079d-4b96-a886-45b36b3f1e44 90421ffb-1f61-496f-b229-208bcbfd9bd8</tstamps>
+    </comp>
+    <comp ref="LCD1">
+      <value>LCD-16X2</value>
+      <footprint>LCD-16X2</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="LCD-16X2" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_3"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_3.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_3/" tstamps="/a3e0d1e2-1e1c-4732-8905-149484b1642d/"/>
+      <tstamps>3cfe5cc4-1dc5-46b9-aecf-a6f1e5c7cdc8</tstamps>
+    </comp>
+    <comp ref="LED1">
+      <value>LED3MM</value>
+      <footprint>LED3MM</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="LED3MM" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_3"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_3.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_3/" tstamps="/a3e0d1e2-1e1c-4732-8905-149484b1642d/"/>
+      <tstamps>43caceeb-8e9e-49b2-9295-59323c212845</tstamps>
+    </comp>
+    <comp ref="LED2">
+      <value>LED3MM</value>
+      <footprint>LED3MM</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="LED3MM" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_3"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_3.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_3/" tstamps="/a3e0d1e2-1e1c-4732-8905-149484b1642d/"/>
+      <tstamps>b4af13d9-ccde-4adb-b620-8f7eb7fb6cd8</tstamps>
+    </comp>
+    <comp ref="LED3">
+      <value>LED3MM</value>
+      <footprint>LED3MM</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="LED3MM" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_3"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_3.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_3/" tstamps="/a3e0d1e2-1e1c-4732-8905-149484b1642d/"/>
+      <tstamps>fc1c337c-3b02-404e-8d55-f35b367c2bce</tstamps>
+    </comp>
+    <comp ref="LED4">
+      <value>LED3MM</value>
+      <footprint>LED3MM</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="LED3MM" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_3"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_3.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_3/" tstamps="/a3e0d1e2-1e1c-4732-8905-149484b1642d/"/>
+      <tstamps>0fc567a9-77b3-4513-adc4-5b02b7613231</tstamps>
+    </comp>
+    <comp ref="LED5">
+      <value>LED3MM</value>
+      <footprint>LED3MM</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="LED3MM" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_3"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_3.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_3/" tstamps="/a3e0d1e2-1e1c-4732-8905-149484b1642d/"/>
+      <tstamps>2fefc672-cf86-469b-b3ea-244c47fc826f</tstamps>
+    </comp>
+    <comp ref="LED6">
+      <value>LED3MM</value>
+      <footprint>LED3MM</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="LED3MM" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_3"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_3.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_3/" tstamps="/a3e0d1e2-1e1c-4732-8905-149484b1642d/"/>
+      <tstamps>92cf77ff-2aa4-4784-b6d0-b24eaca3b5ec</tstamps>
+    </comp>
+    <comp ref="LED7">
+      <value>LED3MM</value>
+      <footprint>LED3MM</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="LED3MM" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_3"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_3.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_3/" tstamps="/a3e0d1e2-1e1c-4732-8905-149484b1642d/"/>
+      <tstamps>e0b293eb-967d-413e-942b-ebdfadf788ea</tstamps>
+    </comp>
+    <comp ref="LED8">
+      <value>LED3MM</value>
+      <footprint>LED3MM</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="LED3MM" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_3"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_3.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_3/" tstamps="/a3e0d1e2-1e1c-4732-8905-149484b1642d/"/>
+      <tstamps>21f0c4e5-ebe0-42c4-9f09-51d3e1810e91</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>5k</value>
+      <footprint>RTRIM3339P</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="R-TRIMM3339P" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_3"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_3.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_3/" tstamps="/a3e0d1e2-1e1c-4732-8905-149484b1642d/"/>
+      <tstamps>817dc6e0-d5aa-4bcc-b61b-018f9acdadc7</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>R_LCD</value>
+      <footprint>0204_7</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="R-US_0204{slash}7" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_3"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_3.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_3/" tstamps="/a3e0d1e2-1e1c-4732-8905-149484b1642d/"/>
+      <tstamps>730f8902-568b-4c16-88b9-2cf4b1aaf734</tstamps>
+    </comp>
+    <comp ref="R31">
+      <value>220</value>
+      <footprint>0204_7</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="R-US_0204{slash}7" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_3"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_3.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_3/" tstamps="/a3e0d1e2-1e1c-4732-8905-149484b1642d/"/>
+      <tstamps>6c5c3c2d-3b4e-4ed7-93d6-044fac42d060</tstamps>
+    </comp>
+    <comp ref="R32">
+      <value>220</value>
+      <footprint>0204_7</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="R-US_0204{slash}7" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_3"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_3.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_3/" tstamps="/a3e0d1e2-1e1c-4732-8905-149484b1642d/"/>
+      <tstamps>b4f535aa-595b-4143-97f1-b06bf415a9ff</tstamps>
+    </comp>
+    <comp ref="R33">
+      <value>220</value>
+      <footprint>0204_7</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="R-US_0204{slash}7" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_3"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_3.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_3/" tstamps="/a3e0d1e2-1e1c-4732-8905-149484b1642d/"/>
+      <tstamps>acb9bc03-644f-47d8-9a90-b4e51e8c1b5c</tstamps>
+    </comp>
+    <comp ref="R34">
+      <value>220</value>
+      <footprint>0204_7</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="R-US_0204{slash}7" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_3"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_3.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_3/" tstamps="/a3e0d1e2-1e1c-4732-8905-149484b1642d/"/>
+      <tstamps>b5ca58b5-3e00-4f13-81b6-8002d15e06ad</tstamps>
+    </comp>
+    <comp ref="R35">
+      <value>220</value>
+      <footprint>0204_7</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="R-US_0204{slash}7" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_3"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_3.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_3/" tstamps="/a3e0d1e2-1e1c-4732-8905-149484b1642d/"/>
+      <tstamps>68f06e34-46cf-4ea2-9b80-0f2dc01fe57a</tstamps>
+    </comp>
+    <comp ref="R36">
+      <value>220</value>
+      <footprint>0204_7</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="R-US_0204{slash}7" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_3"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_3.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_3/" tstamps="/a3e0d1e2-1e1c-4732-8905-149484b1642d/"/>
+      <tstamps>221a7428-fe18-4c36-8179-294aaa90dd67</tstamps>
+    </comp>
+    <comp ref="R37">
+      <value>220</value>
+      <footprint>0204_7</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="R-US_0204{slash}7" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_3"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_3.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_3/" tstamps="/a3e0d1e2-1e1c-4732-8905-149484b1642d/"/>
+      <tstamps>57838bda-d405-48c4-b51c-d1245d2b9bde</tstamps>
+    </comp>
+    <comp ref="R38">
+      <value>220</value>
+      <footprint>0204_7</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="R-US_0204{slash}7" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_3"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_3.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_3/" tstamps="/a3e0d1e2-1e1c-4732-8905-149484b1642d/"/>
+      <tstamps>46ab2a14-30a1-4a32-b325-03ad28637fe2</tstamps>
+    </comp>
+    <comp ref="RN1">
+      <value>10k</value>
+      <footprint>SIL9</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="G08R" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_3"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_3.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_3/" tstamps="/a3e0d1e2-1e1c-4732-8905-149484b1642d/"/>
+      <tstamps>f81ba6bc-010a-4b6d-901b-9ddbcdc506d2</tstamps>
+    </comp>
+    <comp ref="RN2">
+      <value>10k</value>
+      <footprint>SIL9</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="G08R" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_3"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_3.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_3/" tstamps="/a3e0d1e2-1e1c-4732-8905-149484b1642d/"/>
+      <tstamps>1f65eb4c-5fc9-47ce-9c25-03b83f3814a4</tstamps>
+    </comp>
+    <comp ref="RN3">
+      <value>10k</value>
+      <footprint>SIL9</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="G08R" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_3"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_3.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_3/" tstamps="/a3e0d1e2-1e1c-4732-8905-149484b1642d/"/>
+      <tstamps>7518b2c5-7e0b-4f42-92e9-33ba5e150ae2</tstamps>
+    </comp>
+    <comp ref="S1">
+      <value>40-XX</value>
+      <footprint>B3F-40XX</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="40-XX" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_3"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_3.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_3/" tstamps="/a3e0d1e2-1e1c-4732-8905-149484b1642d/"/>
+      <tstamps>890a2189-c504-4256-8595-a08ccd3ec4b0</tstamps>
+    </comp>
+    <comp ref="S2">
+      <value>40-XX</value>
+      <footprint>B3F-40XX</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="40-XX" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_3"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_3.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_3/" tstamps="/a3e0d1e2-1e1c-4732-8905-149484b1642d/"/>
+      <tstamps>625744f6-80e4-4329-afa9-54e32f944e3b</tstamps>
+    </comp>
+    <comp ref="S3">
+      <value>40-XX</value>
+      <footprint>B3F-40XX</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="40-XX" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_3"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_3.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_3/" tstamps="/a3e0d1e2-1e1c-4732-8905-149484b1642d/"/>
+      <tstamps>dbd110d1-7ab4-495e-9fcb-25106c55fad1</tstamps>
+    </comp>
+    <comp ref="S4">
+      <value>40-XX</value>
+      <footprint>B3F-40XX</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="40-XX" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_3"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_3.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_3/" tstamps="/a3e0d1e2-1e1c-4732-8905-149484b1642d/"/>
+      <tstamps>39afb0df-9cf1-4f29-a8d2-aa26b3f155fe</tstamps>
+    </comp>
+    <comp ref="S5">
+      <value>40-XX</value>
+      <footprint>B3F-40XX</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="40-XX" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_3"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_3.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_3/" tstamps="/a3e0d1e2-1e1c-4732-8905-149484b1642d/"/>
+      <tstamps>2acbb50d-ef25-4a23-b591-91f67d8a288e</tstamps>
+    </comp>
+    <comp ref="S6">
+      <value>40-XX</value>
+      <footprint>B3F-40XX</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="40-XX" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_3"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_3.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_3/" tstamps="/a3e0d1e2-1e1c-4732-8905-149484b1642d/"/>
+      <tstamps>c9fb1643-c6b7-4034-9190-c5f1fc30018d</tstamps>
+    </comp>
+    <comp ref="S7">
+      <value>40-XX</value>
+      <footprint>B3F-40XX</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="40-XX" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_3"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_3.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_3/" tstamps="/a3e0d1e2-1e1c-4732-8905-149484b1642d/"/>
+      <tstamps>a94d4d48-34d3-4b08-912f-ab50f6f2a500</tstamps>
+    </comp>
+    <comp ref="S8">
+      <value>40-XX</value>
+      <footprint>B3F-40XX</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="40-XX" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_3"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_3.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_3/" tstamps="/a3e0d1e2-1e1c-4732-8905-149484b1642d/"/>
+      <tstamps>578457d8-a4f7-4c40-907b-a6d6a66d10de</tstamps>
+    </comp>
+    <comp ref="S9">
+      <value>40-XX</value>
+      <footprint>B3F-40XX</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="40-XX" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_3"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_3.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_3/" tstamps="/a3e0d1e2-1e1c-4732-8905-149484b1642d/"/>
+      <tstamps>a28651da-c43e-4ddf-9ad0-401ff4c25d13</tstamps>
+    </comp>
+    <comp ref="S10">
+      <value>40-XX</value>
+      <footprint>B3F-40XX</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="40-XX" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_3"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_3.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_3/" tstamps="/a3e0d1e2-1e1c-4732-8905-149484b1642d/"/>
+      <tstamps>8641a531-5e33-48cc-9899-4d8bb6a777be</tstamps>
+    </comp>
+    <comp ref="S11">
+      <value>40-XX</value>
+      <footprint>B3F-40XX</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="40-XX" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_3"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_3.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_3/" tstamps="/a3e0d1e2-1e1c-4732-8905-149484b1642d/"/>
+      <tstamps>d74d8bfd-39ce-43f5-94c8-35bbc21deaf8</tstamps>
+    </comp>
+    <comp ref="S12">
+      <value>40-XX</value>
+      <footprint>B3F-40XX</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="40-XX" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_3"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_3.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_3/" tstamps="/a3e0d1e2-1e1c-4732-8905-149484b1642d/"/>
+      <tstamps>a5b19a6b-3560-480a-9e20-4fca60fe79d8</tstamps>
+    </comp>
+    <comp ref="S13">
+      <value>40-XX</value>
+      <footprint>B3F-40XX</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="40-XX" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_3"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_3.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_3/" tstamps="/a3e0d1e2-1e1c-4732-8905-149484b1642d/"/>
+      <tstamps>7bf78f94-95ac-4ab3-bf3d-785debf049f1</tstamps>
+    </comp>
+    <comp ref="S14">
+      <value>40-XX</value>
+      <footprint>B3F-40XX</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="40-XX" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_3"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_3.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_3/" tstamps="/a3e0d1e2-1e1c-4732-8905-149484b1642d/"/>
+      <tstamps>85b76497-6bec-4b09-9747-196f5fb543c6</tstamps>
+    </comp>
+    <comp ref="S15">
+      <value>40-XX</value>
+      <footprint>B3F-40XX</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="40-XX" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_3"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_3.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_3/" tstamps="/a3e0d1e2-1e1c-4732-8905-149484b1642d/"/>
+      <tstamps>963d5e94-e956-4a49-8948-08a8421be665</tstamps>
+    </comp>
+    <comp ref="S16">
+      <value>40-XX</value>
+      <footprint>B3F-40XX</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="40-XX" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_3"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_3.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_3/" tstamps="/a3e0d1e2-1e1c-4732-8905-149484b1642d/"/>
+      <tstamps>470fc2ed-3d69-47aa-9c6f-4c5cdf88f2d5</tstamps>
+    </comp>
+    <comp ref="S17">
+      <value>40-XX</value>
+      <footprint>B3F-40XX</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="40-XX" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_3"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_3.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_3/" tstamps="/a3e0d1e2-1e1c-4732-8905-149484b1642d/"/>
+      <tstamps>1f3f5871-3506-4d3b-90e2-a63f6a685ee2</tstamps>
+    </comp>
+    <comp ref="S18">
+      <value>40-XX</value>
+      <footprint>B3F-40XX</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="40-XX" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_3"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_3.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_3/" tstamps="/a3e0d1e2-1e1c-4732-8905-149484b1642d/"/>
+      <tstamps>f1b427b1-42e1-43d9-be2b-400f9689e8ac</tstamps>
+    </comp>
+    <comp ref="S19">
+      <value>40-XX</value>
+      <footprint>B3F-40XX</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="40-XX" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_3"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_3.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_3/" tstamps="/a3e0d1e2-1e1c-4732-8905-149484b1642d/"/>
+      <tstamps>bf1164ae-c5d5-4e98-8a07-1ec176641aab</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>Encoder</value>
+      <footprint>ALPS_EC12E_SW</footprint>
+      <libsource lib="Shruthi-Digital-XT-v03-eagle-import" part="EC12E_SW" description=""/>
+      <property name="Sheetname" value="Shruthi-Digital-XT-v03_3"/>
+      <property name="Sheetfile" value="Shruthi-Digital-XT-v03_3.kicad_sch"/>
+      <sheetpath names="/Shruthi-Digital-XT-v03_3/" tstamps="/a3e0d1e2-1e1c-4732-8905-149484b1642d/"/>
+      <tstamps>f73c9f6c-8790-47b0-9efc-614c905ffc52 289e3a89-5025-4487-b840-4ff4593dca7c</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Shruthi-Digital-XT-v03-eagle-import" part="40-XX">
+      <fields>
+        <field name="Reference">S</field>
+        <field name="Value">40-XX</field>
+      </fields>
+      <pins>
+        <pin num="1" name="S" type="passive"/>
+        <pin num="2" name="S1" type="passive"/>
+        <pin num="3" name="P" type="passive"/>
+        <pin num="4" name="P1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Shruthi-Digital-XT-v03-eagle-import" part="4051N">
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">4051N</field>
+      </fields>
+      <pins>
+        <pin num="1" name="X4" type="bidirectional"/>
+        <pin num="2" name="X6" type="bidirectional"/>
+        <pin num="3" name="X" type="bidirectional"/>
+        <pin num="4" name="X7" type="bidirectional"/>
+        <pin num="5" name="X5" type="bidirectional"/>
+        <pin num="6" name="INH" type="input"/>
+        <pin num="7" name="VEE" type="power_in"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="C" type="input"/>
+        <pin num="10" name="B" type="input"/>
+        <pin num="11" name="A" type="input"/>
+        <pin num="12" name="X3" type="bidirectional"/>
+        <pin num="13" name="X0" type="bidirectional"/>
+        <pin num="14" name="X1" type="bidirectional"/>
+        <pin num="15" name="X2" type="bidirectional"/>
+        <pin num="16" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Shruthi-Digital-XT-v03-eagle-import" part="6N137">
+      <fields>
+        <field name="Reference">OK</field>
+        <field name="Value">6N137</field>
+      </fields>
+      <pins>
+        <pin num="2" name="A" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+        <pin num="5" name="GND" type="passive"/>
+        <pin num="6" name="VO" type="passive"/>
+        <pin num="7" name="VE" type="passive"/>
+        <pin num="8" name="VCC" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Shruthi-Digital-XT-v03-eagle-import" part="74165N">
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">74165N</field>
+      </fields>
+      <pins>
+        <pin num="1" name="SH/~{LD}" type="input"/>
+        <pin num="2" name="CLK" type="input"/>
+        <pin num="3" name="E" type="input"/>
+        <pin num="4" name="F" type="input"/>
+        <pin num="5" name="G" type="input"/>
+        <pin num="6" name="H" type="input"/>
+        <pin num="7" name="~{QH}" type="output"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="QH" type="output"/>
+        <pin num="10" name="SER" type="input"/>
+        <pin num="11" name="A" type="input"/>
+        <pin num="12" name="B" type="input"/>
+        <pin num="13" name="C" type="input"/>
+        <pin num="14" name="D" type="input"/>
+        <pin num="15" name="INH" type="input"/>
+        <pin num="16" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Shruthi-Digital-XT-v03-eagle-import" part="74595N">
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">74595N</field>
+      </fields>
+      <pins>
+        <pin num="1" name="QB" type="tri_state"/>
+        <pin num="2" name="QC" type="tri_state"/>
+        <pin num="3" name="QD" type="tri_state"/>
+        <pin num="4" name="QE" type="tri_state"/>
+        <pin num="5" name="QF" type="tri_state"/>
+        <pin num="6" name="QG" type="tri_state"/>
+        <pin num="7" name="QH" type="tri_state"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="QH*" type="tri_state"/>
+        <pin num="10" name="SCL" type="input"/>
+        <pin num="11" name="SCK" type="input"/>
+        <pin num="12" name="RCK" type="input"/>
+        <pin num="13" name="G" type="input"/>
+        <pin num="14" name="SER" type="input"/>
+        <pin num="15" name="QA" type="tri_state"/>
+        <pin num="16" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Shruthi-Digital-XT-v03-eagle-import" part="AT24CP">
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">AT24CP</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A0" type="input"/>
+        <pin num="2" name="A1" type="input"/>
+        <pin num="3" name="A2" type="input"/>
+        <pin num="4" name="GND" type="power_in"/>
+        <pin num="5" name="SDA" type="bidirectional"/>
+        <pin num="6" name="SCL" type="bidirectional"/>
+        <pin num="7" name="WP" type="input"/>
+        <pin num="8" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Shruthi-Digital-XT-v03-eagle-import" part="AVR_SPI_PRG_6PTH">
+      <fields>
+        <field name="Value">AVR_SPI_PRG_6PTH</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Shruthi-Digital-XT-v03-eagle-import" part="C-US025-024X044">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C-US025-024X044</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Shruthi-Digital-XT-v03-eagle-import" part="CPOL-EUE2.5-7">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CPOL-EUE2.5-7</field>
+      </fields>
+      <pins>
+        <pin num="+" name="+" type="passive"/>
+        <pin num="-" name="-" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Shruthi-Digital-XT-v03-eagle-import" part="CRYSTALHC49U-V">
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">CRYSTALHC49U-V</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Shruthi-Digital-XT-v03-eagle-import" part="DIODE-D-5">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">DIODE-D-5</field>
+      </fields>
+      <pins>
+        <pin num="A" name="A" type="passive"/>
+        <pin num="C" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Shruthi-Digital-XT-v03-eagle-import" part="EC12E_SW">
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">EC12E_SW</field>
+      </fields>
+      <pins>
+        <pin num="A" name="A" type="passive"/>
+        <pin num="B" name="B" type="passive"/>
+        <pin num="C" name="C" type="passive"/>
+        <pin num="D" name="1" type="passive"/>
+        <pin num="E" name="2" type="passive"/>
+        <pin num="GND1" name="G" type="passive"/>
+        <pin num="GND2" name="G" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Shruthi-Digital-XT-v03-eagle-import" part="G08R">
+      <fields>
+        <field name="Reference">RN</field>
+        <field name="Value">G08R</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+        <pin num="7" name="7" type="passive"/>
+        <pin num="8" name="8" type="passive"/>
+        <pin num="9" name="9" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Shruthi-Digital-XT-v03-eagle-import" part="LCD-16X2">
+      <fields>
+        <field name="Value">LCD-16X2</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VSS" type="power_in"/>
+        <pin num="2" name="VDD" type="power_in"/>
+        <pin num="3" name="VO" type="bidirectional"/>
+        <pin num="4" name="RS" type="input"/>
+        <pin num="5" name="R/W" type="input"/>
+        <pin num="6" name="E" type="input"/>
+        <pin num="7" name="DB0" type="bidirectional"/>
+        <pin num="8" name="DB1" type="bidirectional"/>
+        <pin num="9" name="DB2" type="bidirectional"/>
+        <pin num="10" name="DB3" type="bidirectional"/>
+        <pin num="11" name="DB4" type="bidirectional"/>
+        <pin num="12" name="DB5" type="bidirectional"/>
+        <pin num="13" name="DB6" type="bidirectional"/>
+        <pin num="14" name="DB7" type="bidirectional"/>
+        <pin num="15" name="A" type="power_in"/>
+        <pin num="16" name="K" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Shruthi-Digital-XT-v03-eagle-import" part="LED3MM">
+      <fields>
+        <field name="Reference">LED</field>
+        <field name="Value">LED3MM</field>
+      </fields>
+      <pins>
+        <pin num="A" name="A" type="passive"/>
+        <pin num="K" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Shruthi-Digital-XT-v03-eagle-import" part="M01PTH">
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">M01PTH</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Shruthi-Digital-XT-v03-eagle-import" part="M02PTH">
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">M02PTH</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Shruthi-Digital-XT-v03-eagle-import" part="M03PTH">
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">M03PTH</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Shruthi-Digital-XT-v03-eagle-import" part="M06SIP">
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">M06SIP</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Shruthi-Digital-XT-v03-eagle-import" part="MAB5SH">
+      <fields>
+        <field name="Reference">X</field>
+        <field name="Value">MAB5SH</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Shruthi-Digital-XT-v03-eagle-import" part="MEGA16-P">
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">MEGA16-P</field>
+      </fields>
+      <pins>
+        <pin num="1" name="(T0/XCK)PB0" type="bidirectional"/>
+        <pin num="2" name="(T1)PB1" type="bidirectional"/>
+        <pin num="3" name="(AIN0/INT2)PB2" type="bidirectional"/>
+        <pin num="4" name="(AIN1/OC0)PB3" type="bidirectional"/>
+        <pin num="5" name="(SS)PB4" type="bidirectional"/>
+        <pin num="6" name="(MOSI)PB5" type="bidirectional"/>
+        <pin num="7" name="(MISO)PB6" type="bidirectional"/>
+        <pin num="8" name="(SCK)PB7" type="bidirectional"/>
+        <pin num="9" name="RESET" type="input"/>
+        <pin num="10" name="VCC" type="power_in"/>
+        <pin num="11" name="GND" type="power_in"/>
+        <pin num="12" name="XTAL2" type="bidirectional"/>
+        <pin num="13" name="XTAL1" type="bidirectional"/>
+        <pin num="14" name="(RXD)PD0" type="bidirectional"/>
+        <pin num="15" name="(TXD)PD1" type="bidirectional"/>
+        <pin num="16" name="(INT0)PD2" type="bidirectional"/>
+        <pin num="17" name="(INT1)PD3" type="bidirectional"/>
+        <pin num="18" name="(OC1B)PD4" type="bidirectional"/>
+        <pin num="19" name="(OC1A)PD5" type="bidirectional"/>
+        <pin num="20" name="(ICP)PD6" type="bidirectional"/>
+        <pin num="21" name="(OC2)PD7" type="bidirectional"/>
+        <pin num="22" name="(SCL)PC0" type="bidirectional"/>
+        <pin num="23" name="(SDA)PC1" type="bidirectional"/>
+        <pin num="24" name="(TCK)PC2" type="bidirectional"/>
+        <pin num="25" name="(TMS)PC3" type="bidirectional"/>
+        <pin num="26" name="(TDO)PC4" type="bidirectional"/>
+        <pin num="27" name="(TDI)PC5" type="bidirectional"/>
+        <pin num="28" name="(TOSC1)PC6" type="bidirectional"/>
+        <pin num="29" name="(TOSC2)PC7" type="bidirectional"/>
+        <pin num="30" name="AVCC" type="power_in"/>
+        <pin num="31" name="GND@1" type="power_in"/>
+        <pin num="32" name="AREF" type="passive"/>
+        <pin num="33" name="(ADC7)PA7" type="bidirectional"/>
+        <pin num="34" name="(ADC6)PA6" type="bidirectional"/>
+        <pin num="35" name="(ADC5)PA5" type="bidirectional"/>
+        <pin num="36" name="(ADC4)PA4" type="bidirectional"/>
+        <pin num="37" name="(ADC3)PA3" type="bidirectional"/>
+        <pin num="38" name="(ADC2)PA2" type="bidirectional"/>
+        <pin num="39" name="(ADC1)PA1" type="bidirectional"/>
+        <pin num="40" name="(ADC0)PA0" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Shruthi-Digital-XT-v03-eagle-import" part="POT_USVERTICAL">
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">POT_USVERTICAL</field>
+      </fields>
+      <pins>
+        <pin num="P$1" name="E" type="passive"/>
+        <pin num="P$2" name="S" type="passive"/>
+        <pin num="P$3" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Shruthi-Digital-XT-v03-eagle-import" part="R-TRIMM3339P">
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R-TRIMM3339P</field>
+      </fields>
+      <pins>
+        <pin num="1" name="E" type="passive"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Shruthi-Digital-XT-v03-eagle-import" part="R-US_0204{slash}7">
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R-US_0204{slash}7</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Shruthi-Digital-XT-v03-eagle-import">
+      <uri>D:\JDocuments\Projects\Electronics\Synth_clone\shruthi-1_kicad\Shruthi-Digital-XT-v03/Shruthi-Digital-XT-v03-eagle-import.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/Shruthi-Digital-XT-v03_1/CV1">
+      <node ref="IC10" pin="4" pinfunction="(AIN1/OC0)PB3" pintype="bidirectional"/>
+      <node ref="J1" pin="6" pinfunction="6" pintype="passive"/>
+    </net>
+    <net code="2" name="/Shruthi-Digital-XT-v03_1/CV2">
+      <node ref="IC10" pin="5" pinfunction="(SS)PB4" pintype="bidirectional"/>
+      <node ref="J1" pin="5" pinfunction="5" pintype="passive"/>
+    </net>
+    <net code="3" name="/Shruthi-Digital-XT-v03_1/CVF">
+      <node ref="IC10" pin="20" pinfunction="(ICP)PD6" pintype="bidirectional"/>
+      <node ref="J1" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="4" name="/Shruthi-Digital-XT-v03_1/CVG">
+      <node ref="IC10" pin="19" pinfunction="(OC1A)PD5" pintype="bidirectional"/>
+      <node ref="J1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="5" name="/Shruthi-Digital-XT-v03_1/CVQ">
+      <node ref="IC10" pin="21" pinfunction="(OC2)PD7" pintype="bidirectional"/>
+      <node ref="J1" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="6" name="/Shruthi-Digital-XT-v03_1/EXT_TX">
+      <node ref="IC10" pin="17" pinfunction="(INT1)PD3" pintype="bidirectional"/>
+      <node ref="JP3" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="7" name="/Shruthi-Digital-XT-v03_1/MIDI_RX">
+      <node ref="IC10" pin="14" pinfunction="(RXD)PD0" pintype="bidirectional"/>
+      <node ref="OK1" pin="6" pinfunction="VO" pintype="passive"/>
+      <node ref="R18" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="8" name="/Shruthi-Digital-XT-v03_1/MIDI_TX">
+      <node ref="IC10" pin="15" pinfunction="(TXD)PD1" pintype="bidirectional"/>
+      <node ref="R15" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="9" name="/Shruthi-Digital-XT-v03_1/OSC">
+      <node ref="IC10" pin="18" pinfunction="(OC1B)PD4" pintype="bidirectional"/>
+      <node ref="J1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="10" name="/Shruthi-Digital-XT-v03_1/RESET">
+      <node ref="C10" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="IC10" pin="9" pinfunction="RESET" pintype="input"/>
+      <node ref="R19" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="5" pintype="passive"/>
+    </net>
+    <net code="11" name="/Shruthi-Digital-XT-v03_1/SCL">
+      <node ref="IC1" pin="6" pinfunction="SCL" pintype="bidirectional"/>
+      <node ref="IC10" pin="22" pinfunction="(SCL)PC0" pintype="bidirectional"/>
+      <node ref="R10" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="12" name="/Shruthi-Digital-XT-v03_1/SDA">
+      <node ref="IC1" pin="5" pinfunction="SDA" pintype="bidirectional"/>
+      <node ref="IC10" pin="23" pinfunction="(SDA)PC1" pintype="bidirectional"/>
+      <node ref="R9" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="13" name="/Shruthi-Digital-XT-v03_2/CUTOFF">
+      <node ref="IC5" pin="1" pinfunction="X4" pintype="bidirectional"/>
+      <node ref="R39" pin="P$2" pinfunction="S" pintype="passive"/>
+    </net>
+    <net code="14" name="/Shruthi-Digital-XT-v03_2/EDIT1">
+      <node ref="IC5" pin="13" pinfunction="X0" pintype="bidirectional"/>
+      <node ref="R23" pin="P$2" pinfunction="S" pintype="passive"/>
+    </net>
+    <net code="15" name="/Shruthi-Digital-XT-v03_2/EDIT2">
+      <node ref="IC5" pin="14" pinfunction="X1" pintype="bidirectional"/>
+      <node ref="R24" pin="P$2" pinfunction="S" pintype="passive"/>
+    </net>
+    <net code="16" name="/Shruthi-Digital-XT-v03_2/EDIT3">
+      <node ref="IC5" pin="15" pinfunction="X2" pintype="bidirectional"/>
+      <node ref="R25" pin="P$2" pinfunction="S" pintype="passive"/>
+    </net>
+    <net code="17" name="/Shruthi-Digital-XT-v03_2/EDIT4">
+      <node ref="IC5" pin="12" pinfunction="X3" pintype="bidirectional"/>
+      <node ref="R26" pin="P$2" pinfunction="S" pintype="passive"/>
+    </net>
+    <net code="18" name="/Shruthi-Digital-XT-v03_2/ENV1_ATTACK">
+      <node ref="IC7" pin="1" pinfunction="X4" pintype="bidirectional"/>
+      <node ref="R43" pin="P$2" pinfunction="S" pintype="passive"/>
+    </net>
+    <net code="19" name="/Shruthi-Digital-XT-v03_2/ENV1_DECAY">
+      <node ref="IC7" pin="14" pinfunction="X1" pintype="bidirectional"/>
+      <node ref="R44" pin="P$2" pinfunction="S" pintype="passive"/>
+    </net>
+    <net code="20" name="/Shruthi-Digital-XT-v03_2/ENV1_RELEASE">
+      <node ref="IC7" pin="12" pinfunction="X3" pintype="bidirectional"/>
+      <node ref="R46" pin="P$2" pinfunction="S" pintype="passive"/>
+    </net>
+    <net code="21" name="/Shruthi-Digital-XT-v03_2/ENV1_SUSTAIN">
+      <node ref="IC7" pin="13" pinfunction="X0" pintype="bidirectional"/>
+      <node ref="R45" pin="P$2" pinfunction="S" pintype="passive"/>
+    </net>
+    <net code="22" name="/Shruthi-Digital-XT-v03_2/ENV2_ATTACK">
+      <node ref="IC6" pin="1" pinfunction="X4" pintype="bidirectional"/>
+      <node ref="R27" pin="P$2" pinfunction="S" pintype="passive"/>
+    </net>
+    <net code="23" name="/Shruthi-Digital-XT-v03_2/ENV2_DECAY">
+      <node ref="IC6" pin="2" pinfunction="X6" pintype="bidirectional"/>
+      <node ref="R28" pin="P$2" pinfunction="S" pintype="passive"/>
+    </net>
+    <net code="24" name="/Shruthi-Digital-XT-v03_2/ENV2_RELEASE">
+      <node ref="IC6" pin="5" pinfunction="X5" pintype="bidirectional"/>
+      <node ref="R30" pin="P$2" pinfunction="S" pintype="passive"/>
+    </net>
+    <net code="25" name="/Shruthi-Digital-XT-v03_2/ENV2_SUSTAIN">
+      <node ref="IC6" pin="4" pinfunction="X7" pintype="bidirectional"/>
+      <node ref="R29" pin="P$2" pinfunction="S" pintype="passive"/>
+    </net>
+    <net code="26" name="/Shruthi-Digital-XT-v03_2/FILTER_ENV">
+      <node ref="IC5" pin="2" pinfunction="X6" pintype="bidirectional"/>
+      <node ref="R41" pin="P$2" pinfunction="S" pintype="passive"/>
+    </net>
+    <net code="27" name="/Shruthi-Digital-XT-v03_2/FILTER_LFO">
+      <node ref="IC5" pin="4" pinfunction="X7" pintype="bidirectional"/>
+      <node ref="R42" pin="P$2" pinfunction="S" pintype="passive"/>
+    </net>
+    <net code="28" name="/Shruthi-Digital-XT-v03_2/LFO1_ATTACK">
+      <node ref="IC6" pin="12" pinfunction="X3" pintype="bidirectional"/>
+      <node ref="R14" pin="P$2" pinfunction="S" pintype="passive"/>
+    </net>
+    <net code="29" name="/Shruthi-Digital-XT-v03_2/LFO1_RATE">
+      <node ref="IC6" pin="15" pinfunction="X2" pintype="bidirectional"/>
+      <node ref="R13" pin="P$2" pinfunction="S" pintype="passive"/>
+    </net>
+    <net code="30" name="/Shruthi-Digital-XT-v03_2/LFO2_ATTACK">
+      <node ref="IC6" pin="13" pinfunction="X0" pintype="bidirectional"/>
+      <node ref="R7" pin="P$2" pinfunction="S" pintype="passive"/>
+    </net>
+    <net code="31" name="/Shruthi-Digital-XT-v03_2/LFO2_RATE">
+      <node ref="IC6" pin="14" pinfunction="X1" pintype="bidirectional"/>
+      <node ref="R6" pin="P$2" pinfunction="S" pintype="passive"/>
+    </net>
+    <net code="32" name="/Shruthi-Digital-XT-v03_2/MIX_BALANCE">
+      <node ref="IC4" pin="2" pinfunction="X6" pintype="bidirectional"/>
+      <node ref="R20" pin="P$2" pinfunction="S" pintype="passive"/>
+    </net>
+    <net code="33" name="/Shruthi-Digital-XT-v03_2/MIX_NOISE">
+      <node ref="IC4" pin="4" pinfunction="X7" pintype="bidirectional"/>
+      <node ref="R21" pin="P$2" pinfunction="S" pintype="passive"/>
+    </net>
+    <net code="34" name="/Shruthi-Digital-XT-v03_2/MIX_SUB">
+      <node ref="IC4" pin="5" pinfunction="X5" pintype="bidirectional"/>
+      <node ref="R22" pin="P$2" pinfunction="S" pintype="passive"/>
+    </net>
+    <net code="35" name="/Shruthi-Digital-XT-v03_2/OSC1_PARAMETER">
+      <node ref="IC4" pin="14" pinfunction="X1" pintype="bidirectional"/>
+      <node ref="R11" pin="P$2" pinfunction="S" pintype="passive"/>
+    </net>
+    <net code="36" name="/Shruthi-Digital-XT-v03_2/OSC1_RANGE">
+      <node ref="IC4" pin="12" pinfunction="X3" pintype="bidirectional"/>
+      <node ref="R12" pin="P$2" pinfunction="S" pintype="passive"/>
+    </net>
+    <net code="37" name="/Shruthi-Digital-XT-v03_2/OSC2_DETUNE">
+      <node ref="IC4" pin="1" pinfunction="X4" pintype="bidirectional"/>
+      <node ref="R5" pin="P$2" pinfunction="S" pintype="passive"/>
+    </net>
+    <net code="38" name="/Shruthi-Digital-XT-v03_2/OSC2_PARAMETER">
+      <node ref="IC4" pin="15" pinfunction="X2" pintype="bidirectional"/>
+      <node ref="R3" pin="P$2" pinfunction="S" pintype="passive"/>
+    </net>
+    <net code="39" name="/Shruthi-Digital-XT-v03_2/OSC2_RANGE">
+      <node ref="IC4" pin="13" pinfunction="X0" pintype="bidirectional"/>
+      <node ref="R4" pin="P$2" pinfunction="S" pintype="passive"/>
+    </net>
+    <net code="40" name="/Shruthi-Digital-XT-v03_2/RESONANCE">
+      <node ref="IC5" pin="5" pinfunction="X5" pintype="bidirectional"/>
+      <node ref="R40" pin="P$2" pinfunction="S" pintype="passive"/>
+    </net>
+    <net code="41" name="/Shruthi-Digital-XT-v03_2/VOLUME">
+      <node ref="IC7" pin="15" pinfunction="X2" pintype="bidirectional"/>
+      <node ref="JP1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="42" name="/Shruthi-Digital-XT-v03_3/INPUT_CHAIN_1">
+      <node ref="IC3" pin="9" pinfunction="QH" pintype="output"/>
+      <node ref="IC9" pin="10" pinfunction="SER" pintype="input"/>
+    </net>
+    <net code="43" name="/Shruthi-Digital-XT-v03_3/INPUT_CHAIN_2">
+      <node ref="IC2" pin="10" pinfunction="SER" pintype="input"/>
+      <node ref="IC9" pin="9" pinfunction="QH" pintype="output"/>
+    </net>
+    <net code="44" name="ADC">
+      <node ref="IC10" pin="40" pinfunction="(ADC0)PA0" pintype="bidirectional"/>
+      <node ref="IC4" pin="3" pinfunction="X" pintype="bidirectional"/>
+      <node ref="IC5" pin="3" pinfunction="X" pintype="bidirectional"/>
+      <node ref="IC6" pin="3" pinfunction="X" pintype="bidirectional"/>
+      <node ref="IC7" pin="3" pinfunction="X" pintype="bidirectional"/>
+    </net>
+    <net code="45" name="ENC_A">
+      <node ref="IC10" pin="2" pinfunction="(T1)PB1" pintype="bidirectional"/>
+      <node ref="SW1" pin="B" pinfunction="B" pintype="passive"/>
+    </net>
+    <net code="46" name="ENC_B">
+      <node ref="IC10" pin="1" pinfunction="(T0/XCK)PB0" pintype="bidirectional"/>
+      <node ref="SW1" pin="A" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="47" name="ENC_SW">
+      <node ref="IC10" pin="3" pinfunction="(AIN0/INT2)PB2" pintype="bidirectional"/>
+      <node ref="SW1" pin="E" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="48" name="GND">
+      <node ref="C1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C10" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C11" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C12" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C13" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C14" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C15" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C16" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C17" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C4" pin="-" pinfunction="-" pintype="passive"/>
+      <node ref="C5" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C6" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C7" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C8" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C9" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="IC1" pin="1" pinfunction="A0" pintype="input"/>
+      <node ref="IC1" pin="2" pinfunction="A1" pintype="input"/>
+      <node ref="IC1" pin="3" pinfunction="A2" pintype="input"/>
+      <node ref="IC1" pin="4" pinfunction="GND" pintype="power_in"/>
+      <node ref="IC1" pin="7" pinfunction="WP" pintype="input"/>
+      <node ref="IC10" pin="11" pinfunction="GND" pintype="power_in"/>
+      <node ref="IC10" pin="31" pinfunction="GND@1" pintype="power_in"/>
+      <node ref="IC2" pin="15" pinfunction="INH" pintype="input"/>
+      <node ref="IC2" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="IC3" pin="10" pinfunction="SER" pintype="input"/>
+      <node ref="IC3" pin="15" pinfunction="INH" pintype="input"/>
+      <node ref="IC3" pin="4" pinfunction="F" pintype="input"/>
+      <node ref="IC3" pin="5" pinfunction="G" pintype="input"/>
+      <node ref="IC3" pin="6" pinfunction="H" pintype="input"/>
+      <node ref="IC3" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="IC4" pin="7" pinfunction="VEE" pintype="power_in"/>
+      <node ref="IC4" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="IC5" pin="7" pinfunction="VEE" pintype="power_in"/>
+      <node ref="IC5" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="IC6" pin="7" pinfunction="VEE" pintype="power_in"/>
+      <node ref="IC6" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="IC7" pin="2" pinfunction="X6" pintype="bidirectional"/>
+      <node ref="IC7" pin="4" pinfunction="X7" pintype="bidirectional"/>
+      <node ref="IC7" pin="5" pinfunction="X5" pintype="bidirectional"/>
+      <node ref="IC7" pin="7" pinfunction="VEE" pintype="power_in"/>
+      <node ref="IC7" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="IC8" pin="13" pinfunction="G" pintype="input"/>
+      <node ref="IC8" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="IC9" pin="15" pinfunction="INH" pintype="input"/>
+      <node ref="IC9" pin="5" pinfunction="G" pintype="input"/>
+      <node ref="IC9" pin="6" pinfunction="H" pintype="input"/>
+      <node ref="IC9" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="J2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="JP1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="LCD1" pin="1" pinfunction="VSS" pintype="power_in"/>
+      <node ref="LCD1" pin="16" pinfunction="K" pintype="power_in"/>
+      <node ref="LCD1" pin="5" pinfunction="R/W" pintype="input"/>
+      <node ref="LED1" pin="K" pinfunction="C" pintype="passive"/>
+      <node ref="LED2" pin="K" pinfunction="C" pintype="passive"/>
+      <node ref="LED3" pin="K" pinfunction="C" pintype="passive"/>
+      <node ref="LED4" pin="K" pinfunction="C" pintype="passive"/>
+      <node ref="LED5" pin="K" pinfunction="C" pintype="passive"/>
+      <node ref="LED6" pin="K" pinfunction="C" pintype="passive"/>
+      <node ref="LED7" pin="K" pinfunction="C" pintype="passive"/>
+      <node ref="LED8" pin="K" pinfunction="C" pintype="passive"/>
+      <node ref="OK1" pin="5" pinfunction="GND" pintype="passive"/>
+      <node ref="R1" pin="1" pinfunction="E" pintype="passive"/>
+      <node ref="R11" pin="P$3" pinfunction="A" pintype="passive"/>
+      <node ref="R12" pin="P$3" pinfunction="A" pintype="passive"/>
+      <node ref="R13" pin="P$3" pinfunction="A" pintype="passive"/>
+      <node ref="R14" pin="P$3" pinfunction="A" pintype="passive"/>
+      <node ref="R20" pin="P$3" pinfunction="A" pintype="passive"/>
+      <node ref="R21" pin="P$3" pinfunction="A" pintype="passive"/>
+      <node ref="R22" pin="P$3" pinfunction="A" pintype="passive"/>
+      <node ref="R23" pin="P$3" pinfunction="A" pintype="passive"/>
+      <node ref="R24" pin="P$3" pinfunction="A" pintype="passive"/>
+      <node ref="R25" pin="P$3" pinfunction="A" pintype="passive"/>
+      <node ref="R26" pin="P$3" pinfunction="A" pintype="passive"/>
+      <node ref="R27" pin="P$3" pinfunction="A" pintype="passive"/>
+      <node ref="R28" pin="P$3" pinfunction="A" pintype="passive"/>
+      <node ref="R29" pin="P$3" pinfunction="A" pintype="passive"/>
+      <node ref="R3" pin="P$3" pinfunction="A" pintype="passive"/>
+      <node ref="R30" pin="P$3" pinfunction="A" pintype="passive"/>
+      <node ref="R39" pin="P$3" pinfunction="A" pintype="passive"/>
+      <node ref="R4" pin="P$3" pinfunction="A" pintype="passive"/>
+      <node ref="R40" pin="P$3" pinfunction="A" pintype="passive"/>
+      <node ref="R41" pin="P$3" pinfunction="A" pintype="passive"/>
+      <node ref="R42" pin="P$3" pinfunction="A" pintype="passive"/>
+      <node ref="R43" pin="P$3" pinfunction="A" pintype="passive"/>
+      <node ref="R44" pin="P$3" pinfunction="A" pintype="passive"/>
+      <node ref="R45" pin="P$3" pinfunction="A" pintype="passive"/>
+      <node ref="R46" pin="P$3" pinfunction="A" pintype="passive"/>
+      <node ref="R5" pin="P$3" pinfunction="A" pintype="passive"/>
+      <node ref="R6" pin="P$3" pinfunction="A" pintype="passive"/>
+      <node ref="R7" pin="P$3" pinfunction="A" pintype="passive"/>
+      <node ref="S1" pin="3" pinfunction="P" pintype="passive"/>
+      <node ref="S1" pin="4" pinfunction="P1" pintype="passive"/>
+      <node ref="S10" pin="3" pinfunction="P" pintype="passive"/>
+      <node ref="S10" pin="4" pinfunction="P1" pintype="passive"/>
+      <node ref="S11" pin="3" pinfunction="P" pintype="passive"/>
+      <node ref="S11" pin="4" pinfunction="P1" pintype="passive"/>
+      <node ref="S12" pin="3" pinfunction="P" pintype="passive"/>
+      <node ref="S12" pin="4" pinfunction="P1" pintype="passive"/>
+      <node ref="S13" pin="3" pinfunction="P" pintype="passive"/>
+      <node ref="S13" pin="4" pinfunction="P1" pintype="passive"/>
+      <node ref="S14" pin="3" pinfunction="P" pintype="passive"/>
+      <node ref="S14" pin="4" pinfunction="P1" pintype="passive"/>
+      <node ref="S15" pin="3" pinfunction="P" pintype="passive"/>
+      <node ref="S15" pin="4" pinfunction="P1" pintype="passive"/>
+      <node ref="S16" pin="3" pinfunction="P" pintype="passive"/>
+      <node ref="S16" pin="4" pinfunction="P1" pintype="passive"/>
+      <node ref="S17" pin="3" pinfunction="P" pintype="passive"/>
+      <node ref="S17" pin="4" pinfunction="P1" pintype="passive"/>
+      <node ref="S18" pin="3" pinfunction="P" pintype="passive"/>
+      <node ref="S18" pin="4" pinfunction="P1" pintype="passive"/>
+      <node ref="S19" pin="3" pinfunction="P" pintype="passive"/>
+      <node ref="S19" pin="4" pinfunction="P1" pintype="passive"/>
+      <node ref="S2" pin="3" pinfunction="P" pintype="passive"/>
+      <node ref="S2" pin="4" pinfunction="P1" pintype="passive"/>
+      <node ref="S3" pin="3" pinfunction="P" pintype="passive"/>
+      <node ref="S3" pin="4" pinfunction="P1" pintype="passive"/>
+      <node ref="S4" pin="3" pinfunction="P" pintype="passive"/>
+      <node ref="S4" pin="4" pinfunction="P1" pintype="passive"/>
+      <node ref="S5" pin="3" pinfunction="P" pintype="passive"/>
+      <node ref="S5" pin="4" pinfunction="P1" pintype="passive"/>
+      <node ref="S6" pin="3" pinfunction="P" pintype="passive"/>
+      <node ref="S6" pin="4" pinfunction="P1" pintype="passive"/>
+      <node ref="S7" pin="3" pinfunction="P" pintype="passive"/>
+      <node ref="S7" pin="4" pinfunction="P1" pintype="passive"/>
+      <node ref="S8" pin="3" pinfunction="P" pintype="passive"/>
+      <node ref="S8" pin="4" pinfunction="P1" pintype="passive"/>
+      <node ref="S9" pin="3" pinfunction="P" pintype="passive"/>
+      <node ref="S9" pin="4" pinfunction="P1" pintype="passive"/>
+      <node ref="SW1" pin="C" pinfunction="C" pintype="passive"/>
+      <node ref="SW1" pin="D" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="X2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="49" name="IO_CHAIN">
+      <node ref="IC8" pin="9" pinfunction="QH*" pintype="tri_state"/>
+      <node ref="J3" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="50" name="IO_ENABLE">
+      <node ref="IC10" pin="16" pinfunction="(INT0)PD2" pintype="bidirectional"/>
+      <node ref="IC2" pin="1" pinfunction="SH/~{LD}" pintype="input"/>
+      <node ref="IC3" pin="1" pinfunction="SH/~{LD}" pintype="input"/>
+      <node ref="IC8" pin="12" pinfunction="RCK" pintype="input"/>
+      <node ref="IC9" pin="1" pinfunction="SH/~{LD}" pintype="input"/>
+      <node ref="J3" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="51" name="IO_MISO">
+      <node ref="IC10" pin="7" pinfunction="(MISO)PB6" pintype="bidirectional"/>
+      <node ref="IC2" pin="9" pinfunction="QH" pintype="output"/>
+      <node ref="U1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="52" name="IO_MOSI">
+      <node ref="IC10" pin="6" pinfunction="(MOSI)PB5" pintype="bidirectional"/>
+      <node ref="IC8" pin="14" pinfunction="SER" pintype="input"/>
+      <node ref="U1" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="53" name="IO_SCK">
+      <node ref="IC10" pin="8" pinfunction="(SCK)PB7" pintype="bidirectional"/>
+      <node ref="IC2" pin="2" pinfunction="CLK" pintype="input"/>
+      <node ref="IC3" pin="2" pinfunction="CLK" pintype="input"/>
+      <node ref="IC8" pin="11" pinfunction="SCK" pintype="input"/>
+      <node ref="IC9" pin="2" pinfunction="CLK" pintype="input"/>
+      <node ref="J3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="54" name="LCD_DATA1">
+      <node ref="IC10" pin="26" pinfunction="(TDO)PC4" pintype="bidirectional"/>
+      <node ref="LCD1" pin="11" pinfunction="DB4" pintype="bidirectional"/>
+    </net>
+    <net code="55" name="LCD_DATA2">
+      <node ref="IC10" pin="27" pinfunction="(TDI)PC5" pintype="bidirectional"/>
+      <node ref="LCD1" pin="12" pinfunction="DB5" pintype="bidirectional"/>
+    </net>
+    <net code="56" name="LCD_DATA3">
+      <node ref="IC10" pin="28" pinfunction="(TOSC1)PC6" pintype="bidirectional"/>
+      <node ref="LCD1" pin="13" pinfunction="DB6" pintype="bidirectional"/>
+    </net>
+    <net code="57" name="LCD_DATA4">
+      <node ref="IC10" pin="29" pinfunction="(TOSC2)PC7" pintype="bidirectional"/>
+      <node ref="LCD1" pin="14" pinfunction="DB7" pintype="bidirectional"/>
+    </net>
+    <net code="58" name="LCD_EN">
+      <node ref="IC10" pin="25" pinfunction="(TMS)PC3" pintype="bidirectional"/>
+      <node ref="LCD1" pin="6" pinfunction="E" pintype="input"/>
+    </net>
+    <net code="59" name="LCD_RS">
+      <node ref="IC10" pin="24" pinfunction="(TCK)PC2" pintype="bidirectional"/>
+      <node ref="LCD1" pin="4" pinfunction="RS" pintype="input"/>
+    </net>
+    <net code="60" name="MUX_ADDR0">
+      <node ref="IC10" pin="39" pinfunction="(ADC1)PA1" pintype="bidirectional"/>
+      <node ref="IC4" pin="11" pinfunction="A" pintype="input"/>
+      <node ref="IC5" pin="11" pinfunction="A" pintype="input"/>
+      <node ref="IC6" pin="11" pinfunction="A" pintype="input"/>
+      <node ref="IC7" pin="11" pinfunction="A" pintype="input"/>
+    </net>
+    <net code="61" name="MUX_ADDR1">
+      <node ref="IC10" pin="38" pinfunction="(ADC2)PA2" pintype="bidirectional"/>
+      <node ref="IC4" pin="10" pinfunction="B" pintype="input"/>
+      <node ref="IC5" pin="10" pinfunction="B" pintype="input"/>
+      <node ref="IC6" pin="10" pinfunction="B" pintype="input"/>
+      <node ref="IC7" pin="10" pinfunction="B" pintype="input"/>
+    </net>
+    <net code="62" name="MUX_ADDR2">
+      <node ref="IC10" pin="37" pinfunction="(ADC3)PA3" pintype="bidirectional"/>
+      <node ref="IC4" pin="9" pinfunction="C" pintype="input"/>
+      <node ref="IC5" pin="9" pinfunction="C" pintype="input"/>
+      <node ref="IC6" pin="9" pinfunction="C" pintype="input"/>
+      <node ref="IC7" pin="9" pinfunction="C" pintype="input"/>
+    </net>
+    <net code="63" name="MUX_EN0">
+      <node ref="IC10" pin="36" pinfunction="(ADC4)PA4" pintype="bidirectional"/>
+      <node ref="IC6" pin="6" pinfunction="INH" pintype="input"/>
+    </net>
+    <net code="64" name="MUX_EN1">
+      <node ref="IC10" pin="35" pinfunction="(ADC5)PA5" pintype="bidirectional"/>
+      <node ref="IC7" pin="6" pinfunction="INH" pintype="input"/>
+    </net>
+    <net code="65" name="MUX_EN2">
+      <node ref="IC10" pin="34" pinfunction="(ADC6)PA6" pintype="bidirectional"/>
+      <node ref="IC4" pin="6" pinfunction="INH" pintype="input"/>
+    </net>
+    <net code="66" name="MUX_EN3">
+      <node ref="IC10" pin="33" pinfunction="(ADC7)PA7" pintype="bidirectional"/>
+      <node ref="IC5" pin="6" pinfunction="INH" pintype="input"/>
+    </net>
+    <net code="67" name="Net-(C11-Pad2)">
+      <node ref="C11" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="IC10" pin="13" pinfunction="XTAL1" pintype="bidirectional"/>
+      <node ref="Q1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="68" name="Net-(C12-Pad2)">
+      <node ref="C12" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="IC10" pin="12" pinfunction="XTAL2" pintype="bidirectional"/>
+      <node ref="Q1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="69" name="Net-(C16-Pad1)">
+      <node ref="C16" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="IC10" pin="32" pinfunction="AREF" pintype="passive"/>
+    </net>
+    <net code="70" name="Net-(D1-PadA)">
+      <node ref="D1" pin="A" pinfunction="A" pintype="passive"/>
+      <node ref="OK1" pin="3" pinfunction="C" pintype="passive"/>
+      <node ref="X1" pin="5" pinfunction="5" pintype="passive"/>
+    </net>
+    <net code="71" name="Net-(D1-PadC)">
+      <node ref="D1" pin="C" pinfunction="C" pintype="passive"/>
+      <node ref="OK1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R16" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="72" name="Net-(IC2-Pad3)">
+      <node ref="IC2" pin="3" pinfunction="E" pintype="input"/>
+      <node ref="RN1" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="S13" pin="1" pinfunction="S" pintype="passive"/>
+      <node ref="S13" pin="2" pinfunction="S1" pintype="passive"/>
+    </net>
+    <net code="73" name="Net-(IC2-Pad4)">
+      <node ref="IC2" pin="4" pinfunction="F" pintype="input"/>
+      <node ref="RN1" pin="7" pinfunction="7" pintype="passive"/>
+      <node ref="S12" pin="1" pinfunction="S" pintype="passive"/>
+      <node ref="S12" pin="2" pinfunction="S1" pintype="passive"/>
+    </net>
+    <net code="74" name="Net-(IC2-Pad5)">
+      <node ref="IC2" pin="5" pinfunction="G" pintype="input"/>
+      <node ref="RN1" pin="8" pinfunction="8" pintype="passive"/>
+      <node ref="S7" pin="1" pinfunction="S" pintype="passive"/>
+      <node ref="S7" pin="2" pinfunction="S1" pintype="passive"/>
+    </net>
+    <net code="75" name="Net-(IC2-Pad6)">
+      <node ref="IC2" pin="6" pinfunction="H" pintype="input"/>
+      <node ref="RN1" pin="9" pinfunction="9" pintype="passive"/>
+      <node ref="S8" pin="1" pinfunction="S" pintype="passive"/>
+      <node ref="S8" pin="2" pinfunction="S1" pintype="passive"/>
+    </net>
+    <net code="76" name="Net-(IC2-Pad11)">
+      <node ref="IC2" pin="11" pinfunction="A" pintype="input"/>
+      <node ref="RN1" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="S2" pin="1" pinfunction="S" pintype="passive"/>
+      <node ref="S2" pin="2" pinfunction="S1" pintype="passive"/>
+    </net>
+    <net code="77" name="Net-(IC2-Pad12)">
+      <node ref="IC2" pin="12" pinfunction="B" pintype="input"/>
+      <node ref="RN1" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="S1" pin="1" pinfunction="S" pintype="passive"/>
+      <node ref="S1" pin="2" pinfunction="S1" pintype="passive"/>
+    </net>
+    <net code="78" name="Net-(IC2-Pad13)">
+      <node ref="IC2" pin="13" pinfunction="C" pintype="input"/>
+      <node ref="RN1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="S6" pin="1" pinfunction="S" pintype="passive"/>
+      <node ref="S6" pin="2" pinfunction="S1" pintype="passive"/>
+    </net>
+    <net code="79" name="Net-(IC2-Pad14)">
+      <node ref="IC2" pin="14" pinfunction="D" pintype="input"/>
+      <node ref="RN1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="S5" pin="1" pinfunction="S" pintype="passive"/>
+      <node ref="S5" pin="2" pinfunction="S1" pintype="passive"/>
+    </net>
+    <net code="80" name="Net-(IC3-Pad3)">
+      <node ref="IC3" pin="3" pinfunction="E" pintype="input"/>
+      <node ref="RN2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="S3" pin="1" pinfunction="S" pintype="passive"/>
+      <node ref="S3" pin="2" pinfunction="S1" pintype="passive"/>
+    </net>
+    <net code="81" name="Net-(IC3-Pad11)">
+      <node ref="IC3" pin="11" pinfunction="A" pintype="input"/>
+      <node ref="RN2" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="S11" pin="1" pinfunction="S" pintype="passive"/>
+      <node ref="S11" pin="2" pinfunction="S1" pintype="passive"/>
+    </net>
+    <net code="82" name="Net-(IC3-Pad12)">
+      <node ref="IC3" pin="12" pinfunction="B" pintype="input"/>
+      <node ref="RN2" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="S10" pin="1" pinfunction="S" pintype="passive"/>
+      <node ref="S10" pin="2" pinfunction="S1" pintype="passive"/>
+    </net>
+    <net code="83" name="Net-(IC3-Pad13)">
+      <node ref="IC3" pin="13" pinfunction="C" pintype="input"/>
+      <node ref="RN2" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="S9" pin="1" pinfunction="S" pintype="passive"/>
+      <node ref="S9" pin="2" pinfunction="S1" pintype="passive"/>
+    </net>
+    <net code="84" name="Net-(IC3-Pad14)">
+      <node ref="IC3" pin="14" pinfunction="D" pintype="input"/>
+      <node ref="RN2" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="S4" pin="1" pinfunction="S" pintype="passive"/>
+      <node ref="S4" pin="2" pinfunction="S1" pintype="passive"/>
+    </net>
+    <net code="85" name="Net-(IC8-Pad1)">
+      <node ref="IC8" pin="1" pinfunction="QB" pintype="tri_state"/>
+      <node ref="R33" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="86" name="Net-(IC8-Pad2)">
+      <node ref="IC8" pin="2" pinfunction="QC" pintype="tri_state"/>
+      <node ref="R34" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="87" name="Net-(IC8-Pad3)">
+      <node ref="IC8" pin="3" pinfunction="QD" pintype="tri_state"/>
+      <node ref="R32" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="88" name="Net-(IC8-Pad4)">
+      <node ref="IC8" pin="4" pinfunction="QE" pintype="tri_state"/>
+      <node ref="R35" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="89" name="Net-(IC8-Pad5)">
+      <node ref="IC8" pin="5" pinfunction="QF" pintype="tri_state"/>
+      <node ref="R36" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="90" name="Net-(IC8-Pad6)">
+      <node ref="IC8" pin="6" pinfunction="QG" pintype="tri_state"/>
+      <node ref="R37" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="91" name="Net-(IC8-Pad7)">
+      <node ref="IC8" pin="7" pinfunction="QH" pintype="tri_state"/>
+      <node ref="R38" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="92" name="Net-(IC8-Pad15)">
+      <node ref="IC8" pin="15" pinfunction="QA" pintype="tri_state"/>
+      <node ref="R31" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="93" name="Net-(IC9-Pad3)">
+      <node ref="IC9" pin="3" pinfunction="E" pintype="input"/>
+      <node ref="RN3" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="S15" pin="1" pinfunction="S" pintype="passive"/>
+      <node ref="S15" pin="2" pinfunction="S1" pintype="passive"/>
+    </net>
+    <net code="94" name="Net-(IC9-Pad4)">
+      <node ref="IC9" pin="4" pinfunction="F" pintype="input"/>
+      <node ref="RN3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="S14" pin="1" pinfunction="S" pintype="passive"/>
+      <node ref="S14" pin="2" pinfunction="S1" pintype="passive"/>
+    </net>
+    <net code="95" name="Net-(IC9-Pad11)">
+      <node ref="IC9" pin="11" pinfunction="A" pintype="input"/>
+      <node ref="RN3" pin="7" pinfunction="7" pintype="passive"/>
+      <node ref="S19" pin="1" pinfunction="S" pintype="passive"/>
+      <node ref="S19" pin="2" pinfunction="S1" pintype="passive"/>
+    </net>
+    <net code="96" name="Net-(IC9-Pad12)">
+      <node ref="IC9" pin="12" pinfunction="B" pintype="input"/>
+      <node ref="RN3" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="S18" pin="1" pinfunction="S" pintype="passive"/>
+      <node ref="S18" pin="2" pinfunction="S1" pintype="passive"/>
+    </net>
+    <net code="97" name="Net-(IC9-Pad13)">
+      <node ref="IC9" pin="13" pinfunction="C" pintype="input"/>
+      <node ref="RN3" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="S17" pin="1" pinfunction="S" pintype="passive"/>
+      <node ref="S17" pin="2" pinfunction="S1" pintype="passive"/>
+    </net>
+    <net code="98" name="Net-(IC9-Pad14)">
+      <node ref="IC9" pin="14" pinfunction="D" pintype="input"/>
+      <node ref="RN3" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="S16" pin="1" pinfunction="S" pintype="passive"/>
+      <node ref="S16" pin="2" pinfunction="S1" pintype="passive"/>
+    </net>
+    <net code="99" name="Net-(JP2-Pad1)">
+      <node ref="JP2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R8" pin="P$1" pinfunction="E" pintype="passive"/>
+    </net>
+    <net code="100" name="Net-(JP2-Pad2)">
+      <node ref="JP2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R8" pin="P$2" pinfunction="S" pintype="passive"/>
+    </net>
+    <net code="101" name="Net-(JP2-Pad3)">
+      <node ref="JP2" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="R8" pin="P$3" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="102" name="Net-(LCD1-Pad3)">
+      <node ref="LCD1" pin="3" pinfunction="VO" pintype="bidirectional"/>
+      <node ref="R1" pin="2" pinfunction="S" pintype="passive"/>
+    </net>
+    <net code="103" name="Net-(LCD1-Pad15)">
+      <node ref="LCD1" pin="15" pinfunction="A" pintype="power_in"/>
+      <node ref="R2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="104" name="Net-(LED1-PadA)">
+      <node ref="LED1" pin="A" pinfunction="A" pintype="passive"/>
+      <node ref="R31" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="105" name="Net-(LED2-PadA)">
+      <node ref="LED2" pin="A" pinfunction="A" pintype="passive"/>
+      <node ref="R33" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="106" name="Net-(LED3-PadA)">
+      <node ref="LED3" pin="A" pinfunction="A" pintype="passive"/>
+      <node ref="R34" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="107" name="Net-(LED4-PadA)">
+      <node ref="LED4" pin="A" pinfunction="A" pintype="passive"/>
+      <node ref="R32" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="108" name="Net-(LED5-PadA)">
+      <node ref="LED5" pin="A" pinfunction="A" pintype="passive"/>
+      <node ref="R35" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="109" name="Net-(LED6-PadA)">
+      <node ref="LED6" pin="A" pinfunction="A" pintype="passive"/>
+      <node ref="R36" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="110" name="Net-(LED7-PadA)">
+      <node ref="LED7" pin="A" pinfunction="A" pintype="passive"/>
+      <node ref="R37" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="111" name="Net-(LED8-PadA)">
+      <node ref="LED8" pin="A" pinfunction="A" pintype="passive"/>
+      <node ref="R38" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="112" name="Net-(R15-Pad1)">
+      <node ref="R15" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="X2" pin="5" pinfunction="5" pintype="passive"/>
+    </net>
+    <net code="113" name="Net-(R16-Pad1)">
+      <node ref="R16" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="X1" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="114" name="Net-(R17-Pad1)">
+      <node ref="R17" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="X2" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="115" name="VCC">
+      <node ref="C1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C13" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C14" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C15" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C17" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C4" pin="+" pinfunction="+" pintype="passive"/>
+      <node ref="C5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C8" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C9" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="IC1" pin="8" pinfunction="VCC" pintype="power_in"/>
+      <node ref="IC10" pin="10" pinfunction="VCC" pintype="power_in"/>
+      <node ref="IC10" pin="30" pinfunction="AVCC" pintype="power_in"/>
+      <node ref="IC2" pin="16" pinfunction="VCC" pintype="power_in"/>
+      <node ref="IC3" pin="16" pinfunction="VCC" pintype="power_in"/>
+      <node ref="IC4" pin="16" pinfunction="VCC" pintype="power_in"/>
+      <node ref="IC5" pin="16" pinfunction="VCC" pintype="power_in"/>
+      <node ref="IC6" pin="16" pinfunction="VCC" pintype="power_in"/>
+      <node ref="IC7" pin="16" pinfunction="VCC" pintype="power_in"/>
+      <node ref="IC8" pin="10" pinfunction="SCL" pintype="input"/>
+      <node ref="IC8" pin="16" pinfunction="VCC" pintype="power_in"/>
+      <node ref="IC9" pin="16" pinfunction="VCC" pintype="power_in"/>
+      <node ref="J2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="JP1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="LCD1" pin="2" pinfunction="VDD" pintype="power_in"/>
+      <node ref="OK1" pin="8" pinfunction="VCC" pintype="passive"/>
+      <node ref="R1" pin="3" pinfunction="A" pintype="passive"/>
+      <node ref="R10" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R11" pin="P$1" pinfunction="E" pintype="passive"/>
+      <node ref="R12" pin="P$1" pinfunction="E" pintype="passive"/>
+      <node ref="R13" pin="P$1" pinfunction="E" pintype="passive"/>
+      <node ref="R14" pin="P$1" pinfunction="E" pintype="passive"/>
+      <node ref="R17" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R18" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R19" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R20" pin="P$1" pinfunction="E" pintype="passive"/>
+      <node ref="R21" pin="P$1" pinfunction="E" pintype="passive"/>
+      <node ref="R22" pin="P$1" pinfunction="E" pintype="passive"/>
+      <node ref="R23" pin="P$1" pinfunction="E" pintype="passive"/>
+      <node ref="R24" pin="P$1" pinfunction="E" pintype="passive"/>
+      <node ref="R25" pin="P$1" pinfunction="E" pintype="passive"/>
+      <node ref="R26" pin="P$1" pinfunction="E" pintype="passive"/>
+      <node ref="R27" pin="P$1" pinfunction="E" pintype="passive"/>
+      <node ref="R28" pin="P$1" pinfunction="E" pintype="passive"/>
+      <node ref="R29" pin="P$1" pinfunction="E" pintype="passive"/>
+      <node ref="R3" pin="P$1" pinfunction="E" pintype="passive"/>
+      <node ref="R30" pin="P$1" pinfunction="E" pintype="passive"/>
+      <node ref="R39" pin="P$1" pinfunction="E" pintype="passive"/>
+      <node ref="R4" pin="P$1" pinfunction="E" pintype="passive"/>
+      <node ref="R40" pin="P$1" pinfunction="E" pintype="passive"/>
+      <node ref="R41" pin="P$1" pinfunction="E" pintype="passive"/>
+      <node ref="R42" pin="P$1" pinfunction="E" pintype="passive"/>
+      <node ref="R43" pin="P$1" pinfunction="E" pintype="passive"/>
+      <node ref="R44" pin="P$1" pinfunction="E" pintype="passive"/>
+      <node ref="R45" pin="P$1" pinfunction="E" pintype="passive"/>
+      <node ref="R46" pin="P$1" pinfunction="E" pintype="passive"/>
+      <node ref="R5" pin="P$1" pinfunction="E" pintype="passive"/>
+      <node ref="R6" pin="P$1" pinfunction="E" pintype="passive"/>
+      <node ref="R7" pin="P$1" pinfunction="E" pintype="passive"/>
+      <node ref="R9" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="RN1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="RN2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="RN3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="116" name="unconnected-(IC2-Pad7)">
+      <node ref="IC2" pin="7" pinfunction="~{QH}" pintype="output"/>
+    </net>
+    <net code="117" name="unconnected-(IC3-Pad7)">
+      <node ref="IC3" pin="7" pinfunction="~{QH}" pintype="output"/>
+    </net>
+    <net code="118" name="unconnected-(IC9-Pad7)">
+      <node ref="IC9" pin="7" pinfunction="~{QH}" pintype="output"/>
+    </net>
+    <net code="119" name="unconnected-(LCD1-Pad7)">
+      <node ref="LCD1" pin="7" pinfunction="DB0" pintype="bidirectional"/>
+    </net>
+    <net code="120" name="unconnected-(LCD1-Pad8)">
+      <node ref="LCD1" pin="8" pinfunction="DB1" pintype="bidirectional"/>
+    </net>
+    <net code="121" name="unconnected-(LCD1-Pad9)">
+      <node ref="LCD1" pin="9" pinfunction="DB2" pintype="bidirectional"/>
+    </net>
+    <net code="122" name="unconnected-(LCD1-Pad10)">
+      <node ref="LCD1" pin="10" pinfunction="DB3" pintype="bidirectional"/>
+    </net>
+    <net code="123" name="unconnected-(OK1-Pad7)">
+      <node ref="OK1" pin="7" pinfunction="VE" pintype="passive"/>
+    </net>
+    <net code="124" name="unconnected-(RN2-Pad7)">
+      <node ref="RN2" pin="7" pinfunction="7" pintype="passive"/>
+    </net>
+    <net code="125" name="unconnected-(RN2-Pad8)">
+      <node ref="RN2" pin="8" pinfunction="8" pintype="passive"/>
+    </net>
+    <net code="126" name="unconnected-(RN2-Pad9)">
+      <node ref="RN2" pin="9" pinfunction="9" pintype="passive"/>
+    </net>
+    <net code="127" name="unconnected-(RN3-Pad8)">
+      <node ref="RN3" pin="8" pinfunction="8" pintype="passive"/>
+    </net>
+    <net code="128" name="unconnected-(RN3-Pad9)">
+      <node ref="RN3" pin="9" pinfunction="9" pintype="passive"/>
+    </net>
+    <net code="129" name="unconnected-(X1-Pad1)">
+      <node ref="X1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="130" name="unconnected-(X1-Pad2)">
+      <node ref="X1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="131" name="unconnected-(X1-Pad3)">
+      <node ref="X1" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="132" name="unconnected-(X2-Pad1)">
+      <node ref="X2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="133" name="unconnected-(X2-Pad3)">
+      <node ref="X2" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+  </nets>
+</export>
