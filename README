@@ -29,8 +29,9 @@ Cantarino speech synthesizer.
 The PCB layouts and schematics (in /hardware/shruthi/design/pcb)
 are released under a Creative Commons cc-by-sa 3.0 license 
 
-Only the SMR4_MkII_V03 Filter board is contained in this project.
-And the Digital XT filter board, both developed In Kicad 6.
+SMR4_MkII_V03 Filter board and the Digital XT filter board included, both ported from the orignal design files in Eagle to Kicad 6.
+
+Additional footprint and rounting updates made on the SMR4_MKII filter board for manufacturability.
 
 Documentation, analyses, simulations and 3D models are released under a
 Creative Commons cc-by-sa 3.0 license.
